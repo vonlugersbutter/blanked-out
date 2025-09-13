@@ -2,15 +2,14 @@
 title:
 description:
 created: 2025-09-13T11:45:39-04:00
-modified: 2025-09-13T16:44:15-04:00
+modified: 2025-09-13T17:17:44-04:00
 ---
  
-# Mechanics of breathing 
-## Types of flow
+# Types of flow
 - Types of flow: laminar, turbulent, transitional (happens at very high flow rates)
 ![400](media/{6D0164F0-AC4A-47F1-BE28-345924BC8483}.png)
 
-## Poiseuille's equation for laminar flow
+# Poiseuille's equation for laminar flow
 
 $$
 Flow = \frac{\Delta P \pi r^4}{8 \eta l}
@@ -24,18 +23,18 @@ $$
 Resistance = \frac{8 \eta l}{\pi r^4}
 $$
 If you decrease the resistance even a little, resistance increases tremendously!
-## Reynold's number
+# Reynold's number
 $$
 Re = \frac{2rvd}{\eta}
 $$
 Where $r$ is radius, $v$ velocity, $d$ density, and $\eta$ viscosity. If Re exceeds 2000, flow is likely turbulent. Most airways are transitional, smaller ones are probably laminar. In the trachea, its probably turbulent. 
-## Pressures during the breathing cycle
+# Pressures during the breathing cycle
 
 ![400](media/{09797FBE-FE9E-4492-8A5C-49D5F5DAA7E0}.png)
 
-### Changes in volume
+## Changes in volume
 Obviously, as you breathe in, there is going to be more volume going in to your alveoli. As you breathe out, it's going to go back up to FRC. This graph is showing tidal breathing, not really forced, which is why it's more smooth. Otherwise, you could easily ask someone to try and expel all the air from their lungs as fast as possible, and the volume would go down much more quickly,
-### Intrapleural pressure
+## Intrapleural pressure
 In my opinion, the sources that I've looked at don't really explain this properly. West explains this graph as the dotted line fall in intrapleural pressure during inspiration is caused by the lung's elastic recoil, and then the solid line additional drop is caused by the drop in alveolar pressure. I don't think I'm qualified to be making judgements on the explanations of others, but I think I'll do so anyway.
 
 It doesn't make sense to say that the drop in alveolar pressure is what causes the drop in intrapleural pressure. It makes more sense to say that drop in intrapleural pressure, created by additional pulling of the pleura using the chest wall, is needed to:
@@ -45,9 +44,9 @@ It doesn't make sense to say that the drop in alveolar pressure is what causes t
 So intrapleural pressure is what allows for flow and compensates for the lung recoil pressure. Its job is to take care of both of those things. The dotted line is what the intrapleural pressure would be if it didn't have to allow for flow into the alveoli.
 
 During expiration, the same thing occurs. The intrapleural pressure's job isn't just to keep the lungs open during expiration. It also needs to get air out. It does so by getting the alveolar pressure higher than atmospheric pressure. That's why we see the more abrupt circular arc shapes on this graph on the solid line, and not the smoother curves that we see with the dotted line.
-### Flow and alveolar pressure
+## Flow and alveolar pressure
 This is also pretty self-explanatory. Flow makes air come in and out of the airway. The alveolar pressure drops and rises because it's clinging to the pleura, which is clinging to the chest wall. That rise and fall allows for the flow, because air goes from an area of high pressure to low pressure. 
-## Airway resistance
+# Airway resistance
 Smaller airways usually do have more resistance BUT we can also say that
 $$
 A = 2^{n}

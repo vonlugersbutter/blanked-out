@@ -2,7 +2,7 @@
 title:
 description:
 created: 2025-09-13T11:47:30-04:00
-modified: 2025-09-13T16:43:47-04:00
+modified: 2025-09-13T17:44:24-04:00
 ---
 A long form view of the entire respiratory system. Note the difference between pulmonary ventilation, external respiration, and internal respiration. 
 ![](media/{BD039C2E-4E50-4AAB-8EE9-2CBAA96C6735}.png)
@@ -51,4 +51,23 @@ If there are no cilia, the macrophages do the job of clearing stuff up. The inco
 > [!Info] Airway smooth muscle responsiveness
 > - Sympathetic activity → adrenal medulla releases norepinephrine and epinephrine → relaxation of smooth muscle in the bronchioles → bigger airways
 > - Parasympathetic activity + histamine → contraction of bronchiolar smooth muscle → smaller airways
+
+Each lung is enclosed by the double-layered pleural membrane, where the layer touching the chest wall is the parietal pleura and the layer covering the lungs is the visceral pleura. The pleural cavity forms a potential space, which has a sub-atmospheric pressure and normally has a small amount of serous fluid. In pathology, it can get filled by fluid, blood, or gas (see [Pneumothorax](Respirology/Respiratory%20Pathologies/Pneumothorax.md)), which will interfere with the inflation of the lungs. Inflammation of the pleura is called **pleurisy** or **pleuritis**. Fluid in this space is called pleural effusion, and occurs due to several pathologies, such as [Pneumonia](Respirology/Respiratory%20Pathologies/Pneumonia.md). 
+
+![](media/{F41FBC2D-44B5-4342-B05E-96C64C136F7F}.png)
+
+Three things pass across the diaphragm. The esophagus, the inferior vena cava, and the aorta. 
+![400](media/1113_The_Diaphragm.jpg)
+
+An interesting note about the openings. The aorta passes between two cruxes of the diaphragm. The esophagus passes through the esophageal hiatus. Allegedly, the inferior vena cava is not compressed during inspiration because it passes through the tendinous region rather than the muscles. Others say that the vessel is opened up and pulled on during inspiration, to create negative pressure inside of it, and encourage flow to the right atrium. Others say it is constricted. Who knows. Note that the vagus nerve comes down with the esophagus. 
+
+![](media/{269B96EB-8FFD-4C6B-8208-BC5978F112F9}.png)
+
+Each lobe of the lung gets its own lobar bronchus. And then, those lobes are divided into bronchopulmonary segments, supplied by their own segmental bronchi. To the delight of pretty much every instructor out there, bronchopulmonary segments are important because they have their own blood supply and drainage, their own bronchus, and their own 
+
+
+
+# References
+- Tortora
+- https://en.wikipedia.org/wiki/Thoracic_diaphragm
 

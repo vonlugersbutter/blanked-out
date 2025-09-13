@@ -2,7 +2,7 @@
 title:
 description:
 created: 2025-09-13T11:47:30-04:00
-modified: 2025-09-13T13:45:46-04:00
+modified: 2025-09-13T16:29:21-04:00
 ---
 A long form view of the entire respiratory system. Note the difference between pulmonary ventilation, external respiration, and internal respiration. 
 ![](../../media/{BD039C2E-4E50-4AAB-8EE9-2CBAA96C6735}.png)
@@ -15,7 +15,7 @@ Bones and cartilages of the nose. They do look rather nice.
 ![400](../../media/{E4B3ED1B-534F-4C24-836E-FEE749E1E3C7}.png)
 
 Another good diagram, taken right from Tortora. A few important things to note. The conchae, and the meatuses between them serve to warm, moisten, and condition air as it comes in. The opening of the auditory tube, which can get blocked with mucus, or lead to fluid buildup and inflammation in the middle ear, or **otitis media** (see [Pneumonia](Respirology/Respiratory%20Pathologies/Pneumonia.md)). We can see some of the sinuses (frontal, sphenoid, ethmoid, maxillary), which allow for resonance in phonation. These also allow for some degree of humidification. Olfactory epithelium at the top, which helps for (gee I wonder what) olfaction. The upper airway formally stops at the larynx, and then it's lower airway. Note the lingual, palatine, and pharyngeal tonsils, which are lymphoid tissue. There are some important epithelial tissue type differences. The nasopharynx is ciliated pseudostratified columnar epithelium to trap and clear debris from the air, while the oropharynx and laryngopharynx are non-keratinized stratified squamous epithelium for protection against abrasion when swallowing food. 
-![](../../media/{A23E1C8E-4875-4681-B426-459275E1D74F}.png)
+![](../../media/{A23E1C8E-4875-4681-B426-459275E1D74F}.png) 
 
 Another nice view of the conchae and meatuses. Here, note that maxillary sinuses, the ethmoidal cells, the vomer, the brain, and the optic nerve.
 ![](../../media/{BE73B646-498B-4B82-AB00-E79D3F59E16E}.png)

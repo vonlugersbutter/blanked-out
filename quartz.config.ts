@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "blanked out",
+    pageTitleSuffix: " | blanked out",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "**/templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -29,26 +29,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
+          light: "#FFFFF0",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
+          dark: "#FF6B35",
           secondary: "#284b63",
           tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          highlight: "#F7C59F",
+          textHighlight: "#F7C59F",
         },
         darkMode: {
           light: "#161618",
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
-          dark: "#ebebec",
+          dark: "#F7C59F",
           secondary: "#7b97aa",
           tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          highlight: "#F7C59F",
+          textHighlight: "#F7C59F",
         },
       },
     },

@@ -2,13 +2,13 @@
 title:
 description:
 created: 2025-09-13T11:45:39-04:00
-modified: 2025-09-13T11:47:07-04:00
+modified: 2025-09-13T16:44:15-04:00
 ---
  
 # Mechanics of breathing 
 ## Types of flow
 - Types of flow: laminar, turbulent, transitional (happens at very high flow rates)
-![400](../../media/{6D0164F0-AC4A-47F1-BE28-345924BC8483}.png)
+![400](media/{6D0164F0-AC4A-47F1-BE28-345924BC8483}.png)
 
 ## Poiseuille's equation for laminar flow
 
@@ -31,7 +31,7 @@ $$
 Where $r$ is radius, $v$ velocity, $d$ density, and $\eta$ viscosity. If Re exceeds 2000, flow is likely turbulent. Most airways are transitional, smaller ones are probably laminar. In the trachea, its probably turbulent. 
 ## Pressures during the breathing cycle
 
-![400](../../media/{09797FBE-FE9E-4492-8A5C-49D5F5DAA7E0}.png)
+![400](media/{09797FBE-FE9E-4492-8A5C-49D5F5DAA7E0}.png)
 
 ### Changes in volume
 Obviously, as you breathe in, there is going to be more volume going in to your alveoli. As you breathe out, it's going to go back up to FRC. This graph is showing tidal breathing, not really forced, which is why it's more smooth. Otherwise, you could easily ask someone to try and expel all the air from their lungs as fast as possible, and the volume would go down much more quickly,
@@ -53,7 +53,7 @@ $$
 A = 2^{n}
 $$
 Where $A$ is the number of airways and $n$ is the airway generation. Basically, there are a ton of little airways. They have a huge cross-sectional area when taken together, and so don't actually contribute that much to resistance. The main contributors as the mid-sized bronchioles.
-![300](../../media/{1AED5CA2-E8AB-47A8-B20C-7408F7E74305}.png)
+![300](media/{1AED5CA2-E8AB-47A8-B20C-7408F7E74305}.png)
 
 If the radius gets reduced because of some disease, especially of these mid-sized bronchi, then the work of breathing has to be increased to maintain flow. The small, peripheral airways form a silent zone, because they don't contribute much to airway resistance. So, they could get very badly affected, and it wouldn't really affect the work of breathing, so a clinician might not pick it up. 
 # References

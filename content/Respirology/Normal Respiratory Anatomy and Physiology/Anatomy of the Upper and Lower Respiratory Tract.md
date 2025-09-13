@@ -4,7 +4,7 @@ description:
 created: 2025-09-13T11:47:30-04:00
 modified: 2025-09-13T16:29:21-04:00
 ---
-A long form view of the entire respiratory system. Note the difference between pulmonary ventilation, external respiration, and internal respiration. 
+A long form view of the entire respiratory system. Note the difference between pulmonary ventilation, external respiration, and internal respiration. Testing testing 123
 ![](../../media/{BD039C2E-4E50-4AAB-8EE9-2CBAA96C6735}.png)
 
 Another long form view. Note some of the muscles that can be used for forced inspiration, such as the anterior scalene muscle. Note also the pericardial sac, with the heart inside of it, and how it takes away room from the left lung.

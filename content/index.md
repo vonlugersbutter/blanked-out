@@ -2,7 +2,7 @@
 title: Welcome!
 description:
 created: 2025-09-10T13:29:25-04:00
-modified: 2025-09-13T16:25:15-04:00
+modified: 2025-09-13T20:33:18-04:00
 ---
 Hello! Thank you for calling. Please hold.
 
@@ -12,8 +12,45 @@ It was inspired by [Deranged Physiology](https://derangedphysiology.com/main/hom
 
 All relevant pages and sections are available using the Explorer, and below. This website is a work in progress.
 # Sections
--  [[Cardiology/]]
--  [[Respirology/]]
-
+- [[Cardiology/]]
+- [[Respirology/]]
+- [[Endocrinology/]]
+- [[Pharmacology/]] 
+# Topics I need to work on
+- [ ] Respiratory anatomy and physiology
+	- [ ] Tortora
+		- [ ] Alveolar-capillary interface 
+	- [ ] Guyton and Hall (38, 39, 40, 41, 42, 43, 44, 45 (p 494))
+	- [ ] West physio
+	- [ ] West patho
+	- [ ] Levitsky
+	- [ ] Weinberger
+	- [ ] Gray's
+	- [ ] Netters
+	- [ ] Snell's
+	- [ ] Harrisons?
+- [ ] Cardiac anatomy and physiology
+	- [ ] Tortora
+	- [ ] Guyton and Hall
+	- [ ] Gray's
+	- [ ] Netters
+	- [ ] Snell's
+	- [ ] Harrisons?
+	- [ ] Hurst's
+	- [ ] Toffatelli
+	- [ ] Lilly
+- [ ] Pharmacology
+	- [ ] Katzung opioids
+- [ ] Acid base metabolism from Tortora
+- [ ] Diabetes 
+# Pages I recently worked on
+```dataview
+TABLE dateformat(file.mtime, "dd.MM.yyyy - HH:mm") AS "Last modified"
+FROM ""
+WHERE file.name != "index"
+	AND file.name != "Default Internist Template"
+SORT file.mtime DESC
+LIMIT 10
+```
 
 blanked-out © 2025 by vonlugersbutter is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/

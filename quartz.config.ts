@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "https://vonlugersbutter.github.io/blanked-out/",
-    ignorePatterns: ["private", "**/templates", ".obsidian"],
+    ignorePatterns: ["private", "**/00 templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

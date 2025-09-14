@@ -2,7 +2,8 @@
 title: Welcome!
 description:
 created: 2025-09-10T13:29:25-04:00
-modified: 2025-09-13T20:33:18-04:00
+modified: 2025-09-13T21:35:02-04:00
+recent_notes: "true"
 ---
 Hello! Thank you for calling. Please hold.
 
@@ -11,46 +12,3 @@ This is a repository of medical notes written by an MD-PhD student in Canada. It
 It was inspired by [Deranged Physiology](https://derangedphysiology.com/main/home), all of those neocities websites I keep seeing, and every Theodore Gray book I have ever read. It gives me a place to be sarcastic and witty and share what I know without bothering people who don't want to hear it. I also personally don't like it when medical school notes online are packed with abbreviations and are not thorough in their explanations; to address this gap will be a personal goal of mine. I am also somewhat sickened by how expensive things are in the general field of medical education, so will not hold this behind a paywall.
 
 All relevant pages and sections are available using the Explorer, and below. This website is a work in progress.
-# Sections
-- [[Cardiology/]]
-- [[Respirology/]]
-- [[Endocrinology/]]
-- [[Pharmacology/]] 
-# Topics I need to work on
-- [ ] Respiratory anatomy and physiology
-	- [ ] Tortora
-		- [ ] Alveolar-capillary interface 
-	- [ ] Guyton and Hall (38, 39, 40, 41, 42, 43, 44, 45 (p 494))
-	- [ ] West physio
-	- [ ] West patho
-	- [ ] Levitsky
-	- [ ] Weinberger
-	- [ ] Gray's
-	- [ ] Netters
-	- [ ] Snell's
-	- [ ] Harrisons?
-- [ ] Cardiac anatomy and physiology
-	- [ ] Tortora
-	- [ ] Guyton and Hall
-	- [ ] Gray's
-	- [ ] Netters
-	- [ ] Snell's
-	- [ ] Harrisons?
-	- [ ] Hurst's
-	- [ ] Toffatelli
-	- [ ] Lilly
-- [ ] Pharmacology
-	- [ ] Katzung opioids
-- [ ] Acid base metabolism from Tortora
-- [ ] Diabetes 
-# Pages I recently worked on
-```dataview
-TABLE dateformat(file.mtime, "dd.MM.yyyy - HH:mm") AS "Last modified"
-FROM ""
-WHERE file.name != "index"
-	AND file.name != "Default Internist Template"
-SORT file.mtime DESC
-LIMIT 10
-```
-
-blanked-out © 2025 by vonlugersbutter is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/

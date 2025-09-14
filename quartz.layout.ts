@@ -5,7 +5,15 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.OnlyFor(
+      {properties: ["recent_notes"]},
+      Component.Explorer({
+        title: "All Notes",
+        folderDefaultState: "open",
+      })
+    )
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/vonlugersbutter",
@@ -41,6 +49,12 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.OnlyFor(
+      {properties: ["recent_notes"]},
+      Component.RecentNotes(
+        {showTags:false}
+      )
+    )
   ],
 }
 

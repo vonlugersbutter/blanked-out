@@ -2,7 +2,7 @@
 title:
 description:
 created: 2025-09-13T11:47:30-04:00
-modified: 2025-09-13T17:44:24-04:00
+modified: 2025-09-14T16:54:55-04:00
 ---
 A long form view of the entire respiratory system. Note the difference between pulmonary ventilation, external respiration, and internal respiration. 
 ![](00%20media/{BD039C2E-4E50-4AAB-8EE9-2CBAA96C6735}.png)
@@ -65,9 +65,26 @@ An interesting note about the openings. The aorta passes between two cruxes of t
 
 Each lobe of the lung gets its own lobar bronchus. And then, those lobes are divided into bronchopulmonary segments, supplied by their own segmental bronchi. To the delight of pretty much every instructor out there, bronchopulmonary segments are important because they have their own blood supply and drainage, their own bronchus, and their own 
 
-
-
+## Alveolar wall
+Oxygen has to pass through layers: 
+- Surfactant
+- Layer of type I and type II alveolar cells and associated alveolar macrophages (alveolar wall)
+- Epithelial basement membrane and capillary basement membrane (component of the interstitium)
+- Capillary endothelium
+- Plasma
+- Erythrocyte
+### Type 1 pneumocytes
+Mainly a structural cell, and has long cytoplasmic extensions that take up the whole surface. It rarely divides, and isn't very metabolically active. When type 1 cells are injured, they are replaced by type 2 cells, which later transform into type 1 cells.
+### Type 2 pneumocytes
+Nice, globular cell. Gives little structural support, but has lamellated bodies that contain phospholipids. Those are sent out into the alveolar space to form the surfactant. There's also a type 3 pneumocyte in there somewhere, but its structure and function are not well-known.
+### Alveolar macrophage
+Goes around taking in foreign particles and pathogens. It has lysozymes.
+### Fibroblast
+Produces collagen and elastin. They are normal components of the interstitium, but in disease, too much is laid down. That is what leads to pulmonary fibrosis in a variety of diseases (such as [Pneumonia](Respirology/Respiratory%20Pathologies/Pneumonia.md) or [Interstitial lung diseases](Respirology/Respiratory%20Pathologies/Interstitial%20lung%20diseases.md)). 
+### Interstitium 
+Fills the space between the alveolar epithelium and the capillary endothelium. 
 # References
 - Tortora
+- West patho
 - https://en.wikipedia.org/wiki/Thoracic_diaphragm
 

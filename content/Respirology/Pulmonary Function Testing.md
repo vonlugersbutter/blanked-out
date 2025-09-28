@@ -2,7 +2,7 @@
 title:
 description:
 created: 2025-09-11T17:21:13-04:00
-modified: 2025-09-14T15:45:34-04:00
+modified: 2025-09-28T14:29:09-04:00
 ---
 # Indications for a PFT
 - Pt has respiratory symptoms

@@ -2,7 +2,7 @@
 title: Respiratory Pathologies
 description:
 created: 2025-09-14T15:46:27-04:00
-modified: 2025-09-14T17:42:58-04:00
+modified: 2025-09-28T13:21:23-04:00
 ---
 # Obstructive lung diseases
 - 3 things that cause obstruction in the airway
@@ -12,6 +12,7 @@ modified: 2025-09-14T17:42:58-04:00
 
 Examples include:
 - [COPD](Respirology/Respiratory%20Pathologies/COPD.md)
+- [Asthma](Respirology/Respiratory%20Pathologies/Asthma.md)
 # Restrictive lung diseases
 - Could be because of issues with the lung parenchyma, or because of issues with the pleura, chest wall, or neuro-musculature → basically, the expansion of the lung is restricted
 - Note that mixed restrictive and obstructive lung diseases can occur

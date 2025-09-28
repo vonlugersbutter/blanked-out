@@ -2,7 +2,7 @@
 title:
 description:
 created: 2025-09-16T15:24:01-04:00
-modified: 2025-09-18T15:39:13-04:00
+modified: 2025-09-18T21:22:09-04:00
 ---
 # Blood
 - Liquid connective tissue, where the ECM is plasma
@@ -26,6 +26,21 @@ We start as we always do: with lovely diagrams from Tortora. Note the Buffy coat
 - Blood from nutrient and metaphyseal arteries enters bone, passes into leaky capillaries called sinuses → when they form, they enter the blood vessels through nutrient and periosteal veins 
 - Only lymphocytes divide after leaving the bone marrow, no other hematopoietic cells do
 - Thrombopoietin is produced by the liver, makes more platelets from megakaryocytes
-- 
+## RBC life cycle
+- Macrophages phagocytose RBCs
+- Globin and heme of Hb are split apart
+	- Globin gets broken down into amino acids
+	- Iron removed from heme as Fe3+, associates with transferrin
+- In muscle fibers, liver cells, macrophages, Fe3+ detaches from transferrin, binds to ferritin
+- Release from storage site or absorption from GI tract, Fe3+ reattaches to transferrin
+- Fe3+-transferring carried to red bone marrow, cells take it up to make more Hb → vitamin B12 is needed here
+- RBCs enter the bloodstream again!
+- When iron removed from heme, non-iron portion of heme gets converted to biliverdin, and then to bilirubin, which enters blood → goes to liver, released into bile
+- Bacteria convert bilirubin to urobilinogen
+- Some urobilinogen absorbed into blood, converted to urobilin, sent out to urine
+- Most eliminated in feces as stercobilin
+## Reticulocyte count
+- Precursors of RBCs, used to analyze if someone has a shortage of EPO or an inability of the bone marrow to respond to it
+## 
 # Sources used
 - Tortora

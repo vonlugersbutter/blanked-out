@@ -2,7 +2,7 @@
 title:
 description:
 created: 2025-09-11T11:32:54-04:00
-modified: 2025-09-28T15:22:35-04:00
+modified: 2025-09-28T19:54:24-04:00
 ---
 # Definition
 - (chronic obstructive pulmonary disease)
@@ -69,3 +69,4 @@ Patients can even develop polycythemia, leading to thickened blood, as a respons
 - Inhaled corticosteroids 
 - Lung volume reduction surgery
 
+Note that in some patients who have COPD and CO2 retention, giving them 100% supplemental oxygen can worsen their hypercarbia. This is for two reasons. One, the increased oxygen is going to decrease hypoxic pulmonary vasoconstriction. That is going to increase blood flow to poorly ventilated areas. The CO2 release is not going to be as good. Further, the hypoxia created an additional drive to breathe, which is also lost. 

@@ -1,10 +1,9 @@
 ---
 title:
 description:
-created: 2025-09-11T12:15:56-04:00
-modified: 2025-09-11T18:25:24-04:00
+created: 2025-10-07T19:57:45-04:00
+modified: 2025-10-07T19:58:04-04:00
 ---
-# Cor pulmonale
 - Enlargement and failure of the right ventricle, because of increased pulmonary vascular resistance 
 - If it is more acute, it would involve dilation, and if it is more chronic, it involves right ventricle hypertrophy
 - Pulmonary heart disease, also known as cor pulmonale, is the enlargement and failure of the right ventricle of the heart as a response to increased vascular resistance 

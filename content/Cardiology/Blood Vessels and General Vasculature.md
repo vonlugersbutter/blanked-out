@@ -2,7 +2,7 @@
 title:
 description:
 created: 2025-10-07T20:20:44-04:00
-modified: 2025-10-09T09:56:44-04:00
+modified: 2025-10-21T21:19:40-04:00
 ---
 This is going to probably be based mostly on Tortora chapter 21. 
 
@@ -49,7 +49,7 @@ Enclosed within tiny pinocytic vesicles that first enter endothelial cells by en
 ### Bulk flow
 Lots of stuff in the same direction, useful for solute exchange or changing blood or interstitial fluid volume. Think filtration and reabsorption.
 ## Filtration and reabsorption 
-Starling's law of capillaries → volume of filtration = volume of reabsorption
+**Starling's law of capillaries** → volume of filtration = volume of reabsorption
 
 Blood → interstitium is filtration. Influenced by blood hydrostatic pump, pressure from heart hump, interstitial oncotic fluid pressure. Interstitium → blood = reabsorption. 
 
@@ -71,6 +71,8 @@ $$\text{At higher heart rates (when } t_{\text{systole}} \approx t_{\text{diasto
 In terms of its relationship with cardiac output,
 $$CO = \frac{MAP}{R}$$
 $$MAP = CO \times R$$
+
+In an exam context, maybe mention that resistance is also reduced when the blood vessels are in parallel. Kirchhoff's circuit laws! 
 ## Vascular resistance
 - Governed by 
 	- Size of the lumen → inverse relationship

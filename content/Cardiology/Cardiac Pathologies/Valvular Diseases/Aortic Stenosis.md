@@ -2,7 +2,7 @@
 title:
 description:
 created: 2025-10-13T16:41:06-04:00
-modified: 2025-10-14T17:31:18-04:00
+modified: 2025-10-18T18:16:28-04:00
 ---
 # Definition
 Narrowing of the aortic semilunar valve. 

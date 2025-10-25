@@ -2,7 +2,7 @@
 title:
 description:
 created: 2025-10-13T13:15:37-04:00
-modified: 2025-10-13T14:48:53-04:00
+modified: 2025-10-20T22:32:32-04:00
 ---
 # Definition
 
@@ -38,6 +38,12 @@ modified: 2025-10-13T14:48:53-04:00
 	- Laplace's law $\sigma = \frac{P \times r}{2h}$ where $\sigma$ is the wall stress, P is pressure, r is radius, and h is thickness 
 - Heart rate
 - Contractility 
+
+Again, Fick's principle!! 
+$$
+MVO_2=CBF \times (CaO_2-CVO_2)
+$$
+
 ## Pathophysiology of ischemia
 - Fixed vessel narrowing (so a plaque is there, recall Poiseuille's Law)
 - Endothelial cell dysfunction (mostly mediated by NO and prostacyclin)

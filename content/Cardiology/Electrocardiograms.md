@@ -2,7 +2,7 @@
 title:
 description:
 created: 2025-10-11T23:34:26-04:00
-modified: 2025-10-17T16:39:01-04:00
+modified: 2025-10-20T14:39:06-04:00
 ---
 - P wave → atrial depolarization
 - QRS complex → ventricular depolarization

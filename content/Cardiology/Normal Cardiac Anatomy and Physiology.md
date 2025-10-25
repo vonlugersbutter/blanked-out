@@ -2,7 +2,7 @@
 title:
 description:
 created: 2025-09-16T15:05:52-04:00
-modified: 2025-10-17T15:54:23-04:00
+modified: 2025-10-21T23:33:14-04:00
 ---
 # Structure of the heart
 We start, again, with some lovely diagrams from Tortora, depicting the heart and its location in the mediastinum.
@@ -11,6 +11,8 @@ The pericardium surrounds and protects the heart, and consists of the fibrous (d
 ![](00%20media/{261EB008-5D12-44D3-B4A0-ECE082EC3213}.png)
 
 The serous pericardium has serous fluid between its layers, and the potential space that it occupies it is called the pericardial cavity. This can get inflamed, in pericarditis, and cause a pericardial friction rub. There are grooves called sulci on the surface of the heart that house the coronary vessels (discussed below). 
+
+Purpose of the pericardium: fix heart and limit movement, prevent extreme dilatation, limit spread of infection from lungs. 
 ## Epicardium
 This also has two layers (so many layers!). Beneath the mesothelium that forms the visceral layer of the serous pericardium, there is another layer of fibroelastic and adipose tissue.
 ## Myocardium

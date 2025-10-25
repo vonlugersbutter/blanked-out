@@ -2,7 +2,7 @@
 title:
 description:
 created: 2025-10-17T11:45:09-04:00
-modified: 2025-10-17T15:51:37-04:00
+modified: 2025-10-21T23:33:14-04:00
 ---
 There are three types: dilated, hypertrophic, and restrictive. We will go through all three (lucky you).
 

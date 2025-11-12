@@ -2,7 +2,7 @@
 title:
 description:
 created: 2025-10-18T15:48:04-04:00
-modified: 2025-10-18T16:34:13-04:00
+modified: 2025-11-10T14:25:40-05:00
 ---
 - Structural changes in vessel
 - Narrowing of lumen 
@@ -136,3 +136,5 @@ modified: 2025-10-18T16:34:13-04:00
 	- Gas exchange impaired 
 	- Use anticoagulation, treat for RV dysfunction 
 - Superficial thrombophlebitis = benign disorder associated with inflammation and thrombosis of a superficial vein, just below the skin
+# Ankle-Brachial Index (ABI) 
+- Non-invasive test that compares the blood pressure in your ankle to the blood pressure in your arm to check for peripheral artery disease (PAD)

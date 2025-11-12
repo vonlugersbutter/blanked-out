@@ -2,8 +2,9 @@
 title:
 description:
 created: 2025-10-07T20:20:44-04:00
-modified: 2025-10-21T21:19:40-04:00
+modified: 2025-11-10T13:46:34-05:00
 ---
+
 This is going to probably be based mostly on Tortora chapter 21. 
 
 Note the very thin tunica media or muscle layer in veins. Note that the capillary is just endothelium with that basement membrane. Vasa vasorum are the blood vessels that supply the vessels. They are particularly noticeable on the aorta. 

@@ -2,7 +2,7 @@
 title:
 description:
 created: 2025-10-11T23:34:26-04:00
-modified: 2025-10-20T14:39:06-04:00
+modified: 2025-11-07T18:29:14-05:00
 ---
 - P wave → atrial depolarization
 - QRS complex → ventricular depolarization
@@ -171,6 +171,8 @@ This thing below demonstrates the systolic injury current.
 | Hypokalemia         | ![](00%20media/{C73BA9BF-AE6D-4777-A6C9-E431527574DD}.png) | ST depression, flattened T<br>Prominent U wave | RMP becomes more negative <br>Cells are hyperpolarized<br>Repolarization is sluggish and less synchronized<br>U wave is delayed repolarization of the mid-myocardial or Purkinje fibers                                                                                                                |
 | Hypercalcemia       | ![](00%20media/{394FB573-94F3-477E-B02D-A57C20C9573A}.png) | Shortened QT                                   | Repolarization is accelerated                                                                                                                                                                                                                                                                          |
 | Hypocalcemia        | ![](00%20media/{E068336C-7607-4833-B602-63799D1F6419}.png) | Prolonged QT                                   | Repolarization doesn't happen as quickly                                                                                                                                                                                                                                                               |
+### More detailed hyper/hypokalemia EKGs
+![300](00%20media/{F52C094E-C949-4980-A6D6-F2A6543E6D5F}.png)
 ## Torsades de pointes
 - Early afterdepolarizations = happen during repolarization, usually when action potential is too long
 	- Long plateau means L-type Ca²⁺ channels reopen or Na⁺ channels re-trigger

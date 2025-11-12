@@ -2,7 +2,7 @@
 title:
 description:
 created: 2025-10-07T20:05:43-04:00
-modified: 2025-10-17T18:44:21-04:00
+modified: 2025-10-22T09:05:35-04:00
 ---
 Arrhythmia where electrical pathways between atria and ventricles are blocked. 
 ## First-degree AV block

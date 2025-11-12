@@ -2,7 +2,7 @@
 title:
 description:
 created: 2025-09-16T15:05:52-04:00
-modified: 2025-10-21T23:33:14-04:00
+modified: 2025-11-11T19:11:01-05:00
 ---
 # Structure of the heart
 We start, again, with some lovely diagrams from Tortora, depicting the heart and its location in the mediastinum.
@@ -514,6 +514,8 @@ SNS neurons in the medulla → spinal cord (thoracic) → cardiac accelerator ne
 - More specifically,
 	- ↑ $\beta$ -1 receptor activation → AC → ↑ cAMP → PKA → phosphorylates several key channels 
 	- Increase in release of Ca++ from the SR, more force of contraction 
+
+![500](00%20media/{1ABA98A0-2137-4F6F-953E-869D3EB00804}.png)
 
 Phospholamban (PL) is a small protein in the SR membrane. It inhibits Ca++ uptake by SERCA
 - Beta-adrenergic activation of PKAs causes PL phosphorylation, blunts PL's inhibitory effect

@@ -2,7 +2,7 @@
 title:
 description:
 created: 2025-09-11T11:32:54-04:00
-modified: 2025-09-28T19:54:24-04:00
+modified: 2025-11-10T15:37:17-05:00
 ---
 # Definition
 - (chronic obstructive pulmonary disease)
@@ -29,6 +29,7 @@ The whole reason a diagnosis of COPD is used is because its difficult to disting
 - Too much of that lysosomal elastase and neutrophil enzymes that end up destroying the lung (cleaves elastin and collagen)
 - Interestingly, when animals are given these enzymes, they end up developing the same symptoms
 - Cigarette smoke also encourages immune cells to stay in the lungs 
+	- Allegedly, a health economist wrote that it's cheaper to let people smoke and gain taxes and continue to face healthcare costs than lose those taxes 
 #### How come people who don't smoke heavily (and presumably have no genetic susceptibility) also get this?
 - Unclear
 ## Chronic bronchitis
@@ -70,3 +71,5 @@ Patients can even develop polycythemia, leading to thickened blood, as a respons
 - Lung volume reduction surgery
 
 Note that in some patients who have COPD and CO2 retention, giving them 100% supplemental oxygen can worsen their hypercarbia. This is for two reasons. One, the increased oxygen is going to decrease hypoxic pulmonary vasoconstriction. That is going to increase blood flow to poorly ventilated areas. The CO2 release is not going to be as good. Further, the hypoxia created an additional drive to breathe, which is also lost. 
+
+![400](Respirology/Respiratory%20Pathologies/{C663C622-425A-44AC-8F2A-C35DC12E2D2B}.png)

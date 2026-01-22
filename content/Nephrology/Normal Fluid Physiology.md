@@ -2,7 +2,7 @@
 title:
 description:
 created: 2025-10-31T15:20:23-04:00
-modified: 2025-11-11T18:41:29-05:00
+modified: 2025-11-17T17:20:53-05:00
 ---
 # Acid-base and solute regulation 
 - Phosphate buffer system is really important in the cytosol, bicarbonate system is more important in the plasma
@@ -27,7 +27,7 @@ $$
 $$
 H^+ = \frac{24\times P_{CO_2}}{[HCO_3^-]}
 $$
-- Volatile acid = can be rapidly eliminated from the body as a gas via respiration, as opposed to a non-volatile acid, where this doesn't happen.
+- Volatile acid = can be rapidly eliminated from the body as a gas via respiration, as opposed to a non-volatile acid, where this doesn't happen
 - Aspartate and glutamate can get metabolized → HCO3-
 - HCO3- also plays an important role in the neutralization of other acids
 $$
@@ -53,10 +53,10 @@ $$
 - Kidneys regulate RNAE to match NEAP → replenish HCO3- lost by neutralization of non-volatile acids 
 	- H+ secretion → reabsorption of filtered HCO3- and excretion of acid 
 	- H+ is secreted with buffers like phosphate and other buffers to a lesser extent → titratable acid 
-	- This is not enough, and synthesis and excretion of NH4+ also happens 
+	- This is not enough, and synthesis and excretion of NH4+ also happens (this is the main contribution towards responding to acidemia)
 - Normally, there is very little bicarbonate secreted in the urine, so RNAE mostly just reflects the TA and NH4+ 
 ## Mechanisms of bicarbonate reabsorption
-This is in the PCT, and has been covered in [Normal Anatomy and Physiology of the Kidneys](Nephrology/Normal%20Anatomy%20and%20Physiology%20of%20the%20Kidneys.md). 
+This is in the PCT, and has been covered in [Normal Renal Anatomy and Physiology](Nephrology/Normal%20Renal%20Anatomy%20and%20Physiology.md). 
 ![400](00%20media/{0D0FE57E-5569-47A0-BEA7-4F1BB515A5D1}.png)
 
 - Na+/H+ antiporter (predominant) and H+/ATP (V-type H+-ATPase)
@@ -116,6 +116,10 @@ $$
 ![300](00%20media/{C96B5DFB-D667-436E-B946-41022FB1A9C1}.png)
 
 ![550](00%20media/{1256D2BE-2BD3-41BD-8A12-287F0C923B64}.png)
+
+![](00%20media/{1F756655-B730-40C1-92BB-A0DA4D93BB95}.png)
+
+![](00%20media/{98B03E50-498E-4DA7-8AB3-C9E9C9389299}.png)
 ### Plasma anion gap 
 - Non-volatile acid, like in DKA → H+ ↑, pH ↓, HCO3- ↓ 
 - Anion associated with non-volatile acid ↑ → use this to calculate plasma anion gap

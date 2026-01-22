@@ -2,7 +2,7 @@
 title:
 description:
 created: 2025-10-07T20:14:34-04:00
-modified: 2025-10-31T11:41:34-04:00
+modified: 2025-11-24T08:54:47-05:00
 ---
 # Definition
 Loss of pumping efficiency by the heart. The heart fails to pump blood at a sufficient rate to meet the demands of the body, or is only able to do so if the cardiac filling pressures are really high. 

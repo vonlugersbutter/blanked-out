@@ -2,7 +2,7 @@
 title:
 description:
 created: 2025-10-17T21:42:45-04:00
-modified: 2025-11-11T20:33:35-05:00
+modified: 2026-01-20T14:41:31-05:00
 ---
 # Gross anatomy
 Oh, Tortora, where would we be without you? Well, we'd still be here, just with diagrams that aren't as pretty. 
@@ -104,13 +104,15 @@ $$
 - Neural regulation of GFR
 	- SNS → NE → vasoconstriction through $\alpha_1$ receptors (lots in afferent arterioles) → constriction and ↓ GFR 
 - Hormonal regulation
-	- Angiotensin II = potent vasoconstrictor, depresses GFR, preferentially acts on the efferent arteriole 
+	- Angiotensin II = potent vasoconstrictor, preferentially acts on the efferent arteriole, increases GFR in the face of ↓ renal perfusion pressure to maintain it at normal 
 	- Atrial natriuretic peptide (ANP) = caused by stretching of the atria, relaxes glomerular mesangial cells, ↑ GFR 
 	- Bradykinins = ↑ RBF, ↑ GFR
 	- During pathology, prostaglandins can also be produced locally to ↑ RBF without changing GFR
 		- Vasoconstriction ↓ by inhibiting effects of SNS and angiotensin II
 		- This is why NSAIDs are contraindicated in renal ischemia and hemorrhagic shock 
 		- Traditional NSAIDs inhibit both COX-1 and COX-2, while selective COX-2 inhibitors (coxibs) predominantly block COX-2. Inhibition of COX-2 in vascular endothelium suppresses prostacyclin, a vasodilator and inhibitor of platelet aggregation, without affecting thromboxane A₂ (a pro-thrombotic agent produced by platelets via COX-1). This shift favors vasoconstriction and thrombosis, increasing the risk of myocardial infarction and stroke
+
+![](00%20media/zLztRW7XO7y-GYNC.mazAg.png)
 ## Renal tubule
 - Simple cuboidal epithelial cells
 - Reabsorbed substances: glucose, AAs, urea, Na+, K+, Ca++, Cl-, HCO3-, HPO4 2-
@@ -299,7 +301,7 @@ Thank you, Tortora, for this diagram on stuff that causes the thirst response.
 	- So anything that ↑ Ca++ intracellular (like stretch of the afferent arteriole, angiotensin II, and endothelin) → ↓ renin 
 - ACE also degrades bradykinin, which is a potent vasodilator 
 ### Angiotensin II
-- GFR ↓ through vasoconstriction of afferent arterioles
+- GFR ↓ through vasoconstriction of afferent arterioles, but also preferentially acts on the efferent arteriole, increases GFR in the face of ↓ renal perfusion pressure to maintain it at normal
 - Enhances reabsorption of Na+ and water in PCT through more activity of Na+/H+ antiporters
 - Makes adrenal cortex make aldosterone → stimulates principal cells → reabsorb more Na+, secrete K+ 
 - Arteriolar vasoconstriction 
@@ -331,14 +333,16 @@ In ↓ aldosterone → ↓ Na+ reabsorption by ASDN → ↑ NaCl lost in the uri
 
 Why? Pressure natriuresis. Allegedly, ↑ BP → ↓ Na+ reabsorption in the PCT, ↓ Na+/Cl- symporter in the DCT, ↓ ATP which means ↓ ENaC → natriuresis even when aldosterone is ↑. 
 
-| Feature                   | Mineralocorticoid                                         | Glucocorticoid                                           |
-|---------------------------|-------------------------------------------------------------|-----------------------------------------------------------|
-| Primary Function          | Regulate electrolyte and water balance                     | Regulate metabolism, stress response, and inflammation    |
-| Key Hormone               | Aldosterone                                                | Cortisol (in most mammals)                               |
-| Metabolic Role            | Primarily affects ion transport in the kidneys            | Primarily affects carbohydrate, fat, and protein metabolism |
-| Inflammatory/Immune Role  | Minor role                                                 | Potent anti-inflammatory and immunosuppressive effects    |
-| Examples                  | Aldosterone, 11-deoxycorticosterone                       | Cortisol, prednisone, dexamethasone                      |
-| Primary Production Site   | Zona glomerulosa of the adrenal cortex                    | Zona fasciculata of the adrenal cortex                    |
+Pressure natriuresis = process where increased renal perfusion pressure causes the kidneys to increase sodium excretion, helping to lower blood pressure and extracellular fluid volume
+
+| Feature                  | Mineralocorticoid                              | Glucocorticoid                                              |
+| ------------------------ | ---------------------------------------------- | ----------------------------------------------------------- |
+| Primary Function         | Regulate electrolyte and water balance         | Regulate metabolism, stress response, and inflammation      |
+| Key Hormone              | Aldosterone                                    | Cortisol (in most mammals)                                  |
+| Metabolic Role           | Primarily affects ion transport in the kidneys | Primarily affects carbohydrate, fat, and protein metabolism |
+| Inflammatory/Immune Role | Minor role                                     | Potent anti-inflammatory and immunosuppressive effects      |
+| Examples                 | Aldosterone, 11-deoxycorticosterone            | Cortisol, prednisone, dexamethasone                         |
+| Primary Production Site  | Zona glomerulosa of the adrenal cortex         | Zona fasciculata of the adrenal cortex                      |
 ### ADH or vasopressin
 - Synthesized in neuroendocrine cells located in supraoptic and paraventricular nuclei of the hypothalamus
 - Stored in the posterior pituitary → secretion happens through stimulation of anterior hypothalamus osmoreceptors → only respond to effective osmoles (so not urea)

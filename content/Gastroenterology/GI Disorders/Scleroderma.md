@@ -15,7 +15,7 @@ I understand that this is not a GI issue. I learned about in a GI unit. I will f
 	-  C: Calcinosis cutis: small white calcium deposits on the pressure points of the extremities (e.g., elbows, knees, fingertips) 
 	- R: Raynaud phenomenon
 	- E: Esophageal hypomotility (systemic sclerosis): smooth muscle atrophy and fibrosis → esophageal dysmotility and decreased lower esophageal sphincter pressure → dysphagia, gastroesophageal reflux, heartburn → aspiration, Barrett esophagus, stricture
-		- Hence the relationship to [[GERD]]
+		- Hence the relationship to [[Gastroenterology/GI Disorders/GERD]]
 	- S: Sclerodactyly
 	- T: Telangiectasia
 # Treatment 

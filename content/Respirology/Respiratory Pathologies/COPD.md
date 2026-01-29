@@ -72,4 +72,4 @@ Patients can even develop polycythemia, leading to thickened blood, as a respons
 
 Note that in some patients who have COPD and CO2 retention, giving them 100% supplemental oxygen can worsen their hypercarbia. This is for two reasons. One, the increased oxygen is going to decrease hypoxic pulmonary vasoconstriction. That is going to increase blood flow to poorly ventilated areas. The CO2 release is not going to be as good. Further, the hypoxia created an additional drive to breathe, which is also lost. 
 
-![400](Respirology/Respiratory%20Pathologies/{C663C622-425A-44AC-8F2A-C35DC12E2D2B}.png)
+![400](00%20media/{C663C622-425A-44AC-8F2A-C35DC12E2D2B}.png)

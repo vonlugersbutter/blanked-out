@@ -2,13 +2,12 @@
 title:
 description:
 created: 2025-10-13T16:41:55-04:00
-modified: 2025-10-13T17:13:06-04:00
+modified: 2026-01-29T12:54:06-05:00
 ---
 # Definition
 
 # Etiology
 - Rare, long-term consequence of rheumatic fever
-
 # Epidemiology
 # Prognosis
 # Investigations

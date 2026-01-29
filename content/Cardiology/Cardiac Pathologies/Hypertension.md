@@ -15,7 +15,7 @@ modified: 2025-11-11T11:40:18-05:00
 | Stage 3  | 180–209                       | 110–119                        |
 | Stage 4  | ≥ 210                         | ≥ 120                          |
 
-![500](Cardiology/Cardiac%20Pathologies/{9729F096-96F2-4F88-A88D-CF7467707703}.png)
+![500](00%20media/{9729F096-96F2-4F88-A88D-CF7467707703}.png)
 
 - Hypertensive crisis = severe increase in blood pressure, defined as systolic blood pressure 
 - Hypertensive urgency = high blood pressure without any signs of organ damage

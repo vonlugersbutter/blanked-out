@@ -2,7 +2,7 @@
 title:
 description:
 created: 2025-10-17T15:54:21-04:00
-modified: 2025-10-17T20:48:22-04:00
+modified: 2026-01-29T00:18:50-05:00
 ---
 Let's talk about the basics behind cardiac arrhythmias, before we actually get into the specific kinds. 
 
@@ -211,7 +211,7 @@ If SA node is blocked or impaired, distant pacemakers set the rhythm.
 ![](00%20media/{06A446E3-D820-43C6-B808-366F4CF8AD1A}.png)
 ### Atrial premature beats
 ![](00%20media/{49CF8A42-C100-4813-8C5C-D37CC5CD81A7}.png)
-- Common in healthy and diseases hearts
+- Common in healthy and diseased hearts
 - Automaticity or re-entry in an atrial focus outside SA node, usually from SNS stimulation
 - Earlier P wave with abnormal shape 
 - Usually normal QRS

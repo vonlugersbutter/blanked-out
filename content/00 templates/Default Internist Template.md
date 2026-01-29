@@ -5,9 +5,15 @@ created:
 modified:
 ---
 # Definition
+
 # Etiology
+
 # Epidemiology
-# Prognosis
-# Investigations
+
 # Clinical features
+
+# Investigations
+
+# Prognosis
+
 # Treatment 

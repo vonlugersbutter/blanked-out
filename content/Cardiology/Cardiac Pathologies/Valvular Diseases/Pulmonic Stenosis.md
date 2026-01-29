@@ -2,13 +2,13 @@
 title:
 description:
 created: 2025-10-13T16:41:55-04:00
-modified: 2025-10-18T18:20:12-04:00
+modified: 2026-01-29T12:53:41-05:00
 ---
 # Definition
 # Etiology
 ![200](00%20media/{2F2E0CF8-394E-4347-9742-AD022AAC0788}.png)
 - Usually a congenital deformity 
-- Carcinoid syndrome 
+- [Carcinoid Tumors](Gastroenterology/GI%20Disorders/Carcinoid%20Tumors.md) 
 - Increased RV pressure, chamber hypertrophy 
 - Clinical course determined by severity
 - Could result in right heart failure 

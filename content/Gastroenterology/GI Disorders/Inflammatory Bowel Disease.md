@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-01-21T23:05:53-05:00
-modified: 2026-01-29T12:47:46-05:00
+modified: 2026-01-29T22:58:52-05:00
 ---
 # Definition
 - Consists of two chronic autoimmune bowel diseases = Crohn’s disease and Ulcerative Colitis
@@ -51,6 +51,8 @@ modified: 2026-01-29T12:47:46-05:00
 ## Crohn's disease
 - Dysphagia = chronic, transmural inflammation that leads to structural changes in the esophagus, such as strictures (narrowing), ulcers, and fistula formation
 - Location = the terminal ileum is a common location, leading to malabsorption of bile salts, vitamin B12 deficiency, and right lower quadrant pain it often spares the rectum and exhibits "skip" sections
+	- If someone gets complications here, then it can lead to ileocecal resection, and then they really can't reabsorb those bile acids 
+	- Decreased bile acid to cholesterol ratio causes cholesterol supersaturation and predisposes to cholesterol gallstone formation, which can lead to [Cholelithiasis](Gastroenterology/GI%20Disorders/Cholelithiasis.md)
 - Microscopy = features non-caseating granulomas
 - Gross morphology = includes "cobblestone" mucosa, fistulas (peri-anal, abdominal, or enterovesical to the bladder), "creeping fat" wrapped around the bowel, and strictures (the "string sign")
 - Adenocarcinoma = risk exists only when the colon is involved
@@ -69,4 +71,6 @@ modified: 2026-01-29T12:47:46-05:00
 - Sulfasalazine = a combination of sulfapyridine and 5-asa activated by colonic bacteria; it is ideal for UC because it is not active until it reaches the colon
 	- Side effects include GI upset, sulfonamide hypersensitivity, and reversible oligospermia in men
 - 5-asa (mesalamine) = pure 5-asa has fewer side effects but is absorbed too early in the jejunum; therefore, it is used in delayed-release capsules (eg, asacol, pentasa) to reach the colon
-- Combination therapy = adding thiopurines (6-MP/Azathioprine) to biologics reduces B-cell counts, which helps prevent the formation of anti-drug antibodies that would otherwise neutralize the biologic.
+- Combination therapy = adding thiopurines (6-MP/Azathioprine) to biologics reduces B-cell counts, which helps prevent the formation of anti-drug antibodies that would otherwise neutralize the biologic
+- Fecal microbiota transplant (FMT) = an experimental therapy for IBD, particularly ulcerative colitis (UC), involving transferring healthy donor stool to restore gut microbial balance
+	- Highly effective for recurrent _C. difficile_ in IBD patients, its use for inducing remission in UC shows promise but has conflicting results

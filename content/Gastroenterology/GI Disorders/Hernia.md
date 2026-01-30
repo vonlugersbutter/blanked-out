@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-01-27T16:44:29-05:00
-modified: 2026-01-27T16:55:41-05:00
+modified: 2026-01-29T22:51:29-05:00
 ---
 # Definition
 - Protrusion of an organ through a cavity wall, which can lead to dysfunction, necrosis, or infection they commonly occur in areas where the abdominal wall is discontinuous, such as the inguinal canal, esophagus, and umbilicus
@@ -16,6 +16,10 @@ modified: 2026-01-27T16:55:41-05:00
 - Hiatal hernias = involve the stomach herniating into the thorax, often caused by obesity and leading to GERD type I (sliding) accounts for 95% and involves the ge junction moving above the diaphragm, creating an "hourglass" appearance types ii, iii, and iv (paraesophageal) involve a fundus protrusion through a defect in the phrenoesophageal membrane, often presenting with bowel sounds in lung fields
 - Congenital diaphragmatic hernia (CDH) = a defect in the pleuroperitoneal membrane allows organs to herniate into the chest in utero, leading to pulmonary hypoplasia; this is often fatal
 - Complications = incarceration occurs when the bowel is trapped and cannot be reduced strangulation involves the cutoff of blood flow, leading to ischemia or necrosis; symptoms include fever and a painful, red, swollen bulge, requiring urgent surgery
+- Umbilical hernia = a common, often harmless, bulge of abdominal fat or intestine through a weakened belly button muscle, failure of umbilical ring to close 
+	- Soft swelling or bulge at the navel, which may appear more prominent during crying, coughing, or straining
+	- Often accompanied by other signs such as a large fontanel, macroglossia, and jaundice
+	- Associated with hypothyroidism 
 # Epidemiology
 # Prognosis
 # Investigations

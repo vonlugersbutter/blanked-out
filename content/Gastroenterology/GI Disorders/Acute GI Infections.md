@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-01-29T13:04:51-05:00
-modified: 2026-01-29T14:15:30-05:00
+modified: 2026-01-30T18:30:51-05:00
 ---
 Finally, some infectious diseases in the GI unit. How pleasant. 
 # Definition
@@ -13,7 +13,7 @@ Basically some infection in the GI tract, and then that is going to cause things
 - Adherence = successful colonization requires pathogens to compete with normal flora; organisms like *V. cholerae* and ETEC use specific surface adhesins (eg, toxin-coregulated pili, colonization factor antigens) to bind to enterocytes
 - Toxin production
 	- Enterotoxins = act on secretory mechanisms (eg, cholera toxin catalyzes ADP-ribosylation of GTP-binding proteins, increasing cAMP and leading to $Cl^-$ secretion and $Na^+$ absorption inhibition)
-	- Cytotoxins = destroy mucosal cells, leading to inflammatory diarrhea (eg, shigella dysenteriae type 1, *C. difficile*)
+	- Cytotoxins = destroy mucosal cells, leading to inflammatory diarrhea (eg, Shigella dysenteriae type 1, *C. difficile*)
 	- Neurotoxins = often preformed outside the host (eg, *S. aureus*, *B. cereus*), acting on the CNS to induce vomiting
 - Invasion = dysentery results from the invasion and destruction of mucosal cells (shigella, EIEC)
 - Penetrating pathogens (salmonella typhi, yersinia enterocolitica) migrate to Peyer patches and may cause systemic "enteric fever"
@@ -30,7 +30,7 @@ Basically some infection in the GI tract, and then that is going to cause things
 - Bacterial food poisoning (incubation-based) 
 	- Short (1–6 h) = *S. aureus* (ham, pastries), *B. cereus* emetic form (fried rice)
 	- Intermediate (8–16 h) = *C. perfringens* (meats/gravies), *B. cereus* diarrheal form
-	- Long (>16 h) = *V. cholerae*, ETEC, EHEC, Salmonella, Campylobacter
+	- Long (>16 h) = *V. cholerae*, ETEC, EHEC, Salmonella (raw eggs), Campylobacter
 # Clinical features
 
 # Investigations

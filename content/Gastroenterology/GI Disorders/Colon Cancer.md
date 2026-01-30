@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-01-29T12:47:53-05:00
-modified: 2026-01-29T12:52:38-05:00
+modified: 2026-01-29T22:39:40-05:00
 ---
 # Definition
 
@@ -18,6 +18,7 @@ modified: 2026-01-29T12:52:38-05:00
 - Juvenile polyps = benign hamartomas in children, usually in the rectum, causing painless bleeding
 	- Juvenile polyposis syndrome increases cancer risk
 - Peutz-Jeghers syndrome = an autosomal dominant disorder with multiple hamartomas and pigmented spots on the lips/mucosa; it carries risks for gastric, small intestinal, and colon cancer
+	- Hamartoma is a benign (noncancerous) tumour-like growth composed of a disorganized, abnormal mixture of normal tissues and cells typically found in that specific area of the body
 ## Genetics
 - Chromosomal instability pathway (adenoma-carcinoma sequence) = this is the sequence of genetic events leading to cancer over 10–40 years, common in left-sided tumors
 	1. APC mutation = loss of this tumor suppressor increases beta-catenin and polyp risk

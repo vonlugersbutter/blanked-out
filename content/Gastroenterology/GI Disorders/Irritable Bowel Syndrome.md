@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-01-29T12:37:59-05:00
-modified: 2026-01-29T14:02:12-05:00
+modified: 2026-01-29T15:53:25-05:00
 ---
 # Definition
 - A functional disorder with normal structure but recurrent pain improved by defecation
@@ -17,7 +17,7 @@ The pathogenesis is multifactorial and involves a complex interplay of the "brai
 - Immune activation = low-grade mucosal inflammation involving activated lymphocytes and mast cells mast cells in close proximity to enteric nerves correlate with pain severity
 - Microbial dysbiosis = general decrease in fecal microbiome diversity typical shifts include decreased Bifidobacterium and Faecalibacterium and increased Enterobacteriaceae 
 - Serotonin (5-HT) signaling = alterations in enterochromaffin cell serotonin release and downregulated serotonin reuptake transporters (SERT) contribute to motility and sensory disturbances
-- Bile acid malabsorption (bam) = up to 25% of IBS-D patients have idiopathic bile acid diarrhea, often due to reduced FGF-19 synthesis, which increases colonic bile acid levels and accelerates transit
+- Bile acid malabsorption (BAM) = up to 25% of IBS-D patients have idiopathic bile acid diarrhea, often due to reduced FGF-19 synthesis, which increases colonic bile acid levels and accelerates transit
 # Epidemiology
 - Affects approximately 10% of the global population it is 2-3 times more prevalent in women, who also constitute 80% of patients with severe symptoms
 - While it affects all ages, the majority of patients present with initial symptoms before age 45
@@ -53,7 +53,7 @@ Diagnosis is based on clinical presentation as there are no clear biochemical or
 	- Eluxadoline = a mixed opioid receptor modulator; contraindicated in patients without a gallbladder due to pancreatitis risk
 	- Bile acid binders = cholestyramine or colesevelam for those with bam
 	- Antibiotics = rifaximin is FDA-approved for non-constipated IBS and gas/bloating
-- Pharmacotherapy for IBS-C =
+- Pharmacotherapy for IBS-C
 	- Osmotic laxatives = PEG is superior to lactulose for stool frequency
 	- Secretagogues = lubiprostone (chloride channel activator), linaclotide, and plecanatide (guanylate cyclase-c agonists) stimulate fluid secretion and enhance transit
 	- NHE3 inhibitor = tenapanor inhibits sodium-hydrogen exchange to increase intestinal fluid

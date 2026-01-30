@@ -2,13 +2,15 @@
 title:
 description:
 created: 2026-01-29T00:23:22-05:00
-modified: 2026-01-29T00:34:43-05:00
+modified: 2026-01-29T14:57:38-05:00
 ---
 - Surface area is massively amplified by villi (finger-like projections) and crypts (invaginations) to facilitate absorption
 	- Villi has lacteal (lymph capillary) for lipid absorption and blood capillaries
 	- Microvilli (brush border) = microscopic projections on absorptive cell surfaces that house brush-border enzymes (like lactase and peptidase)
 - Circular folds = permanent ridges of mucosa and submucosa that cause chyme to spiral
 - Intestinal juice (water and mucus) is secreted by intestinal glands (crypts of Lieberkühn)
+	- Paneth cells are specialized epithelial cells located at the base of small intestinal crypts (of Lieberkühn) = essential for innate immunity and tissue homeostasis
+		- Secrete antimicrobial peptides (defensins, lysozyme) to regulate microbiota and support intestinal stem cells by providing necessary niche factors. Dysfunction is linked to inflammatory diseases like [Inflammatory Bowel Disease](Gastroenterology/GI%20Disorders/Inflammatory%20Bowel%20Disease.md), specifically Crohn's 
 - Duodenal (Brunner’s) glands in the duodenum secrete bicarb to neutralize stomach acid
 - Mechanical = Involves segmentations (localized mixing contractions) and migrating motility complexes (MMC) (peristalsis that propels chyme toward the large intestine)
 - Absorption = absorbs about 90% of water and nutrients

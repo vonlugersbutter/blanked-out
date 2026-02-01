@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-01-29T00:45:16-05:00
-modified: 2026-01-29T00:54:55-05:00
+modified: 2026-01-31T17:29:05-05:00
 ---
 # Definition
 Acute inflammation of the pancreas, characterized by liquefactive necrosis and hemorrhage.
@@ -36,12 +36,13 @@ Acute inflammation of the pancreas, characterized by liquefactive necrosis and h
 - Imaging = ultrasound may reveal gallstones or bile duct dilatation, while CT scans can show pancreatic edema or necrosis
 - Ranson’s criteria, which evaluates factors at admission
 	- Age >55, WBC >16,000, glucose >200, LDH >350, AST >250) and at 48 hours (Hct drop >10%, BUN increase >5, calcium <8, po2 <60)
+- Could also use APACHE II criteria, or revised Atlanta criteria 
 - SIRS (systemic inflammatory response syndrome) in pancreatitis indicates severe disease 
 # Prognosis
 - Pseudocyst = a walled-off collection of fluid (without epithelium) that takes about 4 weeks to "mature" it can rupture, leading to peritonitis, or become infected
 - Pancreatic abscess = an infection of a pseudocyst, typically appearing 10 days into the illness, often caused by intestinal bacteria like e coli
-- ARDS = damage to the capillary endothelium allows fluid to pour into the lungs; it resembles pulmonary edema but with a normal PCWP (pulmonary capillary wedge pressure)
-- Fat necrosis = enzymes release fatty acids that bind calcium, a process called saponification low calcium is a poor prognostic indicator
+- [ARDS](Respirology/Respiratory%20Pathologies/ARDS.md) = damage to the capillary endothelium allows fluid to pour into the lungs; it resembles pulmonary edema but with a normal PCWP (pulmonary capillary wedge pressure)
+- Fat necrosis = enzymes release fatty acids that bind calcium, a process called saponification, low calcium is a poor prognostic indicator
 - Multi-organ failure = severe cases may lead to DIC, renal failure, and the need for ICU support
 - Repeated episodes causes [Chronic Pancreatitis](Gastroenterology/GI%20Disorders/Chronic%20Pancreatitis.md)
 # Treatment 

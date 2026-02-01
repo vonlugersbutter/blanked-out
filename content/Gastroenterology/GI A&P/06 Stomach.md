@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-01-29T00:15:23-05:00
-modified: 2026-01-29T00:29:01-05:00
+modified: 2026-01-31T16:23:29-05:00
 ---
 - Includes rugae (macroscopic folds) and gastric pits leading to deep gastric glands (oxyntic or antral)
 - Gastroparesis = delayed gastric emptying affects esophageal health; management includes small, liquid-heavy, low-fat meals to avoid excessive CCK-mediated feedback inhibition of motility
@@ -80,6 +80,7 @@ modified: 2026-01-29T00:29:01-05:00
 - Ulcer is the loss of the mucosal layer that can extend into the submucosa or muscle
 - Gastric carcinoma
 	- Types = 95% are adenocarcinomas, categorized as intestinal (large ulcers with irregular margins) or diffuse (linitis plastica with signet ring cells)
+		- Linitis plastica (sometimes referred to as leather bottle stomach) is a morphological variant of diffuse stomach cancer in which the stomach wall becomes thick and rigid
 	- Risk factors = intestinal type is linked to h pylori, smoking, alcohol, nitrosamines (in smoked meats), and type a blood
 	- Clinical signs
 		- Metastasis often goes to the liver
@@ -88,6 +89,11 @@ modified: 2026-01-29T00:29:01-05:00
 		- Virchow’s node (left supraclavicular)
 		- Sister Mary Joseph nodule (periumbilical)
 		- Krukenberg tumor (bilateral ovarian metastasis)
+
+Below, we see a total gastrectomy and splenectomy for gastric cancer. The walls look quite thick and rigid.
+
+![400](Gastroenterology/GI%20A&P/Pasted%20image%2020260131162247.png)
+
 - Hypertrophic gastropathy
 	- Menetrier’s disease = a rare condition causing enlarged rugal folds due to mucous cell hyperplasia
 		- Leads to protein loss (hypoalbuminemia/edema) and achlorhydria

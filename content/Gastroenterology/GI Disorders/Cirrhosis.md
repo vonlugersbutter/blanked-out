@@ -2,11 +2,26 @@
 title:
 description:
 created: 2026-01-27T17:28:30-05:00
-modified: 2026-01-29T00:06:29-05:00
+modified: 2026-01-31T21:38:19-05:00
 ---
 # Definition
 - Cirrhosis is the irreversible replacement of liver tissue with fibrosis and nodules, commonly caused by viral hepatitis (b and c), alcohol, or NAFLD
+- Compensated cirrhosis = asymptomatic, there is some evidence of portal hypertension
+- Decompensated cirrhosis = we see symptoms of complications of portal hypertension, ascites, → this usually happens due to some kind of short-term event, like infection or alcohol consumption, but it can also develop gradually over time  
 # Etiology
+- Things that cause cirrhosis
+	- Chronic hepatitis C
+	- Chronic alcohol use disorder
+	- MASLD
+	- Autoimmune conditions
+	- Genetic conditions, see [Wilson's Disease](Gastroenterology/GI%20Disorders/Wilson's%20Disease.md), or alpha-1 anti-trypsin deficiency 
+	- Hepatic vein congestion, like in Budd-Chiari (portal vein hypertension)
+- The basic processes underlying all of this
+	- Degeneration and necrosis of hepatocytes, activation of Kuppfer cells and hepatic stellate cells
+	- Inflammatory cytokine production, laying down excess collagen
+	- Fibrotic tissue replacing functional hepatocytes
+	- Regenerative nodules and fibrous septa, compression of sinusoids, ↑ portal vein pressure, loss of liver function
+	- No more proper sinusoids and fenestration, impaired structure and function 
 - Stellate cells are the major contributors to cirrhosis; when activated by liver disease, they secrete TGF-β and produce fibrous tissue
 - Systemic manifestations 
 	- Hyperammonemia = loss of ammonia clearance leads to asterixis (hand flapping), confusion, and coma treatment involves a low protein diet and lactulose, which traps NH4+ in the colon
@@ -33,13 +48,36 @@ modified: 2026-01-29T00:06:29-05:00
 		- Biopsy is the gold standard for diagnosis but is often not required if antibodies are present  
 	- Treatment = ursodeoxycholic acid (UDCA) is the only effective therapy; it replaces endogenous bile acids and improves liver function tests
 		- Liver transplant is an option for advanced disease
-- Associated disorders = PBC is frequently associated with other autoimmune disorders, most commonly Sjogren’s syndrome
+- Associated disorders = PBC is frequently associated with other autoimmune disorders, most commonly Sjogren’s syndrome → not to be confused with primary sclerosing cholangitis, which is the one that's common in men and [Inflammatory Bowel Disease](Gastroenterology/GI%20Disorders/Inflammatory%20Bowel%20Disease.md)
 # Epidemiology
-# Prognosis
+- More common in men
+- Important cause of mortality, most deaths in 50s or 60s 
+# Clinical features
+- Pruritus, jaundice, spider angiomata, caput medusae, palmar erythmea
+- Petechiae and purpurae due to clotting factor deficiency
+- Terry nails due to defective keratin metabolism
+- Nausea, vomiting, hepatomegaly, splenomegaly (due to portal hypertension)
+- Fetor hepaticus = foul breath caused by dimethyl sulfide accumulation 
 # Investigations
+- Lab studies: ALT, AST, bilirubin, ALP, GGT, INR, CBC to check for [Anemia](Hematology/Anemia.md) or deficiencies, albumins 
+- Imaging studies
+	- Abdominal ultrasound with Doppler, CT abdomen, liver biopsy if there is uncertainty 
 - MELD score = uses bilirubin, creatinine, and INR to estimate 3-month mortality
 - Child-Pugh classification = uses encephalopathy, ascites, bilirubin, albumin, and pt to categorize cirrhosis severity into classes a, b, and c
+	- ABCDEs = albumin, bilirubin, coagulation (INR), distended abdomen, encephalopathy
 - Diagnosis = while biopsy is the gold standard, clinical diagnosis is common based on the presence of ascites, low platelets, and spider angiomata
-# Clinical features
 # Treatment 
-- Transplant
+- Transplant is the only curative option
+	- Indicated for complications like hemorrhage and ascites, and with high MELD score 
+- Alcohol abstinence
+- Stop hepatotoxic medications or anything associated with toxins → no opioids, so I guess no naltrexone for alcohol use 
+- Reduce the risk of infection 
+- Screen for complications like varices 
+	- If varices do occur, need urgent endoscopy to visualize and conduct variceal band ligation
+	- Give octreotide to cause splanchnic vasoconstriction
+	- Lactulose to prevent hepatic encephalopathy
+	- Prophylactic antibiotics to prevent 
+# Prognosis
+- Dangerous complications
+	- Hepatic encephalopathy, leading to asterixis 
+	- Hepatorenal syndrome 

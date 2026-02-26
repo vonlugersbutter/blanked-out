@@ -18,6 +18,6 @@ Involves the permanent fibrosis and calcification of the pancreas due to recurre
 
 # Prognosis
 - Splenic vein thrombosis (leading to gastric varices and an enlarged spleen)
-- [Diabetes](Endocrinology/Endocrine%20Pathologies/Diabetes.md)
+- [Diabetes](Endocrinology/Endocrine%20Pathologies/Diabetes/Diabetes.md)
 - Fat malabsorption (steatorrhea) with vitamin deficiencies
 # Treatment 

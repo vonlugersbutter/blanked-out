@@ -48,7 +48,7 @@ modified: 2026-01-29T14:57:38-05:00
 	- Most common in aging (non-persistence) or after mucosal injury
 	- Diagnosis is often via the lactose breath hydrogen test
 - Bacterial overgrowth = occurs when significant bacteria are present in the small intestine, leading to inflammation and malabsorption
-	- Causes include [Diabetes](Endocrinology/Endocrine%20Pathologies/Diabetes.md) or Crohn's disease ([Inflammatory Bowel Disease](Gastroenterology/GI%20Disorders/Inflammatory%20Bowel%20Disease.md))
+	- Causes include [Diabetes](Endocrinology/Endocrine%20Pathologies/Diabetes/Diabetes.md) or Crohn's disease ([Inflammatory Bowel Disease](Gastroenterology/GI%20Disorders/Inflammatory%20Bowel%20Disease.md))
 ## Diagnostic tests
 - Fecal fat test = measures fat in stool over 1-3 days; >7g/day indicates malabsorption
 - D-xylose test = tests the integrity of the mucosa; d-xylose is a monosaccharide that requires no enzymes; absorption results are abnormal in bacterial overgrowth or Whipple’s disease

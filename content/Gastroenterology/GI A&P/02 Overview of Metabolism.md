@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-01-21T22:55:09-05:00
-modified: 2026-01-21T23:03:16-05:00
+modified: 2026-02-10T11:06:45-05:00
 ---
 # Mechanisms of ATP generation
 - Substrate-level phosphorylation = transfer of a high-energy phosphate group from an intermediate compound (substrate) directly to ADP
@@ -23,6 +23,11 @@ modified: 2026-01-21T23:03:16-05:00
 - Glycogenesis = glucose to glycogen synthesis, stimulated by insulin
 - Glycogenolysis = splitting glycogen into glucose subunits, stimulated by glucagon and epinephrine. Hepatocytes can release this glucose into the blood; skeletal muscle fibers cannot (they lack the necessary enzyme, phosphatase)
 - Gluconeogenesis = formation of new glucose from noncarbohydrate sources (glycerol from triglycerides, lactic acid, and certain amino acids). Stimulated by cortisol and glucagon
+## Glucose transporters
+- GLUT1 = ubiquitous; responsible for basal glucose uptake in skeletal muscle and fat
+- GLUT2 = a low-affinity transporter in $\beta$ -cells and the liver that functions as a glucose sensor, ensuring uptake only when circulating glucose levels are high
+- GLUT4 = the major insulin-responsive transporter found in muscle and adipose tissue
+- GLUT5 = primarily a fructose transporter located in the small intestine and spermatozoa
 # Lipids
 ## Formation
 - Chylomicrons = formed in the gastrointestinal tract during fat absorption, carrying dietary fat and cholesterol.
@@ -58,7 +63,7 @@ modified: 2026-01-21T23:03:16-05:00
 	- Acetyl-CoA is converted into fatty acids using malonyl-CoA and NADPH primarily supplied by the pentose phosphate pathway
 	- Fatty acids combine with $\alpha$ -glycerophosphate (a product of glucose degradation) to form triglycerides
 ## Regulation 
-- Fat-sparing effect of carbohydrates = carbohydrates are preferentially used for energy when available.
+- Fat-sparing effect of carbohydrates = carbohydrates are preferentially used for energy when available
 	- The availability of excess carbohydrates increases $\alpha$ -glycerophosphate production, which binds free fatty acids into stored triglycerides, thus limiting the free fatty acids available for energy use
 	- Excess carbohydrates also increase intermediates of the citric acid cycle, which accelerate the enzyme acetyl-CoA carboxylase, the rate-limiting step in fatty acid synthesis
 - Hormonal mobilization

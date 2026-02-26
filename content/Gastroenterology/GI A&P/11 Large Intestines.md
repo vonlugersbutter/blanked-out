@@ -18,7 +18,7 @@ modified: 2026-01-29T14:59:04-05:00
 	- Opens the involuntary internal anal sphincter, while the external anal sphincter is under voluntary control
 # Defenses
 ## Gut microbiota
-![400](Gastroenterology/GI%20A&P/{28576FBC-9AAF-4152-8FF2-76E826B28416}.png)
+![400](00%20media/{28576FBC-9AAF-4152-8FF2-76E826B28416}.png)
 
 - Major life points will change bacterial diversity
 - Bacterial diversity ↓, intestinal inflammation ↑ as one ages
@@ -29,7 +29,7 @@ modified: 2026-01-29T14:59:04-05:00
 	- Prebiotics are specialized plant fibers that act as food to nourish and fuel these bacteria
 	- Symbiotics are a combination of the two?
 
-![400](Gastroenterology/GI%20A&P/{BF8B5839-9D85-4401-B18C-116C1F14EBC3}.png)
+![400](00%20media/{BF8B5839-9D85-4401-B18C-116C1F14EBC3}.png)
 ## SCFAs
 - Short-chain fatty acids (SCFAs), primarily acetate, propionate, and butyrate, are essential metabolites produced when gut microbiota ferment dietary fiber
 - Strengthen the gut barrier, regulate immune function, and manage metabolic health

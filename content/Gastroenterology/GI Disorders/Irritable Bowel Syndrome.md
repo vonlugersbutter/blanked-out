@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-01-29T12:37:59-05:00
-modified: 2026-01-29T15:53:25-05:00
+modified: 2026-02-02T07:01:38-05:00
 ---
 # Definition
 - A functional disorder with normal structure but recurrent pain improved by defecation
@@ -36,7 +36,7 @@ The pathogenesis is multifactorial and involves a complex interplay of the "brai
 # Investigations
 Diagnosis is based on clinical presentation as there are no clear biochemical or structural markers
 - Core criterion = recurrent abdominal pain occurring at least 1 day per week (on average) for the last 3 months
-- Associated features = must be associated with $\geq$ 2 of the following =
+- Associated features (Rome IV criteria) = must be associated with $\geq$ 2 of the following =
 	1. Related to defecation
 	2. Associated with a change in stool frequency
 	3. Associated with a change in stool form/appearance

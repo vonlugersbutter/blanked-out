@@ -20,7 +20,7 @@ modified: 2026-01-31T22:27:35-05:00
 - Mixed stones = formation of gallbladder stones composed of a combination of ingredients, most commonly cholesterol, calcium salts (bilirubinate, carbonate, phosphate), and bile pigments
 	- Infection or infestation → release of β-glucuronidase (by injured hepatocytes and bacteria) → hydrolyzes conjugated bilirubin and lecithin in the bile → increased unconjugated bilirubin and fatty acids
 
-![600](Gastroenterology/GI%20Disorders/Pasted%20image%2020260131221610.png)
+![600](00%20media/Pasted%20image%2020260131221610.png)
 # Epidemiology
 - More likely in middle-aged females 
 # Clinical features

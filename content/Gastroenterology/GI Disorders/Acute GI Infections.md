@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-01-29T13:04:51-05:00
-modified: 2026-01-30T18:30:51-05:00
+modified: 2026-02-01T23:42:48-05:00
 ---
 Finally, some infectious diseases in the GI unit. How pleasant. 
 # Definition
@@ -30,7 +30,7 @@ Basically some infection in the GI tract, and then that is going to cause things
 - Bacterial food poisoning (incubation-based) 
 	- Short (1–6 h) = *S. aureus* (ham, pastries), *B. cereus* emetic form (fried rice)
 	- Intermediate (8–16 h) = *C. perfringens* (meats/gravies), *B. cereus* diarrheal form
-	- Long (>16 h) = *V. cholerae*, ETEC, EHEC, Salmonella (raw eggs), Campylobacter
+	- Long (>16 h) = *V. cholerae*, ETEC, EHEC, Salmonella (raw eggs), Campylobacter, Vibrio parahaemolyticus (mollusks, crustaceans)
 # Clinical features
 
 # Investigations
@@ -38,13 +38,18 @@ Basically some infection in the GI tract, and then that is going to cause things
 - Clinicians must distinguish between noninflammatory (watery, no fecal WBCs, proximal small bowel) and inflammatory (bloody/mucoid, fecal WBCs/lactoferrin, colon/distal small bowel) syndromes
 - Dehydration assessment is critical = signs range from dry mouth (mild) to orthostatic hypotension (moderate) and shock (severe)
 - Laboratory evaluation
-	- Markers = fecal lactoferrin is a sensitive marker for leukocytes
+	- Markers = fecal lactoferrin is a sensitive marker for leukocytes, signals infectious process going on 
 	- Culture = selective media (eg, MacConkey for salmonella/shigella; thiosulfate–citrate–bile salts–sucrose agar for vibrio) are used for identification
 	- Molecular testing = multiplex PCR/nucleic acid amplification is increasingly used for rapid detection but requires subsequent culture for antimicrobial susceptibility and public health tracking
+- Noninflammatory, enterotoxin → proximal small bowel → watery diarrhea → no fecal leukocytes, mild to no increase in lactoferrin
+	- Vibrio cholerae, ETEC, B. cereus, viruses
+- Inflammatory, invasion or cytotoxin → colon or distal small bowel → dysentery or inflammatory diarrhea → fecal PMNL, ↑ lactoferrin → shigella, Salmonella, EHEC, EIEC
+- Penetrating → distal small bowel → enteric fever → fecal mononuclear leukocytes → Salmonella typhi, Y. enterocolitica 
 # Prognosis
 - Chronic sequelae = post-diarrhea complications include lactase deficiency, [Irritable Bowel Syndrome](Gastroenterology/GI%20Disorders/Irritable%20Bowel%20Syndrome.md) (~10% of travelers), reactive arthritis (Shigella, Salmonella), HUS (EHEC), and Guillain-Barré syndrome (Campylobacter)
 # Treatment 
 - Rehydration = the cornerstone of therapy; oral rehydration solution (ORS) utilizes glucose-facilitated sodium absorption, which remains intact despite cholera toxin
+- Bismuth subsalicylate can be used as a prophylactic for traveler's diarrhea
 - Antibiotic stewardship 
 	- Traveler's diarrhea = fluoroquinolones or azithromycin can shorten duration but should be reserved for severe cases
 	- Campylobacter = macrolides (azithromycin) are preferred due to widespread fluoroquinolone resistance

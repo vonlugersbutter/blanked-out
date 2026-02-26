@@ -2,10 +2,14 @@
 title:
 description:
 created: 2026-01-29T00:16:06-05:00
-modified: 2026-01-29T00:55:33-05:00
+modified: 2026-02-09T18:48:00-05:00
 ---
 - A retroperitoneal gland (except the tail) lying posterior to the stomach's greater curvature
 - Acinar cells (exocrine portion) secrete pancreatic juice into the duodenum via the pancreatic duct
+- Receives its rich blood supply primarily from branches of the celiac trunk and superior mesenteric artery (SMA)
+	- Head is supplied by the superior and inferior pancreaticoduodenal arteries
+	- Body and tail are supplied by the splenic artery
+	- Venous drainage occurs via the portal, splenic, and superior mesenteric veins
 - Pancreatic juice is alkaline (pH 7.1–8.2) due to sodium bicarbonate, which buffers acidic chyme from the stomach and creates the proper pH for intestinal enzymes
 - Pancreatic juice contains enzymes that digest starches (pancreatic amylase), proteins (trypsin, chymotrypsin, carboxypeptidase, elastase), triglycerides (pancreatic lipase), and nucleic acids (ribonuclease, deoxyribonuclease)
 - Protein-digesting enzymes are secreted in inactive forms (e.g., trypsinogen) to prevent digestion of pancreatic cells

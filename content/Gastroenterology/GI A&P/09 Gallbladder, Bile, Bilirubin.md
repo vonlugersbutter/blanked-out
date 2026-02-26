@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-01-29T00:22:45-05:00
-modified: 2026-01-29T00:23:19-05:00
+modified: 2026-02-02T07:03:55-05:00
 ---
 # Gallbladder
 - Sac that stores and concentrates bile produced by the liver until needed in the duodenum
@@ -33,6 +33,7 @@ modified: 2026-01-29T00:23:19-05:00
 - Hemolysis = results in elevated unconjugated bilirubin because the liver's capacity is overwhelmed no bilirubin is found in the urine because unconjugated bilirubin cannot cross the glomerulus
 - Biliary obstruction = causes elevated conjugated bilirubin this leads to dark urine (as water-soluble bilirubin enters the urine) and clay-colored stools (due to a lack of stercobilin)
 - Primary liver disease = often shows a mixed increase in both types of bilirubin
+![](00%20media/{174E0AB3-863B-4534-A388-D646AC8DEC54}.png)
 ## Special syndromes
 - Gilbert’s syndrome = a mild decrease in UGT enzyme levels leading to mild unconjugated hyperbilirubinemia, often triggered by fasting, stress, or illness
 - Crigler-Najjar syndrome = severely reduced or absent UGT enzyme type i is often fatal in infancy due to kernicterus (bilirubin acting as a neurotoxin in the brain) type ii is less severe and may be treated with phenobarbital

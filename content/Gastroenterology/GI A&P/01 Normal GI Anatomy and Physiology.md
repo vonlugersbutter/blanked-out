@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-01-20T14:41:54-05:00
-modified: 2026-01-29T12:39:07-05:00
+modified: 2026-02-09T18:47:20-05:00
 ---
 # Overview of the GI system
 - GI tract (alimentary canal) = continuous tube extending from the mouth to the anus. Organs include the mouth, most of the pharynx, esophagus, stomach, small intestine, and large intestine

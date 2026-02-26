@@ -92,7 +92,7 @@ modified: 2026-01-31T16:23:29-05:00
 
 Below, we see a total gastrectomy and splenectomy for gastric cancer. The walls look quite thick and rigid.
 
-![400](Gastroenterology/GI%20A&P/Pasted%20image%2020260131162247.png)
+![400](00%20media/Pasted%20image%2020260131162247.png)
 
 - Hypertrophic gastropathy
 	- Menetrier’s disease = a rare condition causing enlarged rugal folds due to mucous cell hyperplasia

@@ -12,7 +12,7 @@ The placenta serves as a selective barrier and a metabolic hub that coordinates 
 - Placental production = produces vast amounts of estrogens and progesterone, though it lacks the enzyme CYP17 and must rely on substrates (C19 androgens like DHEA) provided by the fetal and maternal adrenal glands
 # HPA axis
 The fetal pituitary is well-developed by the end of the first trimester
-- Anterior and intermediate lobes originate from oral ectoderm (Rathke’s pouch), while the posterior lobe originates from the ventral diencephalon → see [Pituitary Gland](00%20media/Pituitary%20Gland.md)
+- Anterior and intermediate lobes originate from oral ectoderm (Rathke’s pouch), while the posterior lobe originates from the ventral diencephalon → see [Pituitary Gland](Endocrinology/Pituitary%20Gland.md)
 - Pituitary hormone secretion begins at approximately 8 to 10 weeks of gestation
 - All five specialized anterior pituitary cell types (lactotropes, somatotropes, etc) are present by 16 weeks
 - Essential genes for pituitary development include HESX1, PROP1, and POU1F1 (Pit-1); mutations in these genes can lead to combined pituitary hormone deficiencies (CPHD)

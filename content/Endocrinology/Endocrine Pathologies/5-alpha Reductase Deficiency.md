@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-02-18T18:20:22-05:00
-modified: 2026-02-20T13:13:19-05:00
+modified: 2026-02-26T12:27:21-05:00
 ---
 # Definition
 - 5- $\alpha$ reductase deficiency = a 46 XY individual who can make testosterone but not DHT

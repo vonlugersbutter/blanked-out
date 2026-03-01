@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-02-09T17:44:16-05:00
-modified: 2026-02-19T14:43:48-05:00
+modified: 2026-02-26T22:30:04-05:00
 ---
 # Definition
 - A group of enzyme deficiency syndromes resulting in low cortisol production, which stimulates ACTH release and leads to adrenal hyperplasia and the overproduction of non-cortisol hormones
@@ -13,7 +13,7 @@ modified: 2026-02-19T14:43:48-05:00
 - 17-alpha hydroxylase deficiency = results in low cortisol and androgens, with excess mineralocorticoids leading to hypertension and low potassium females experience primary amenorrhea, and males have ambiguous genitalia
 - 3-beta hydroxysteroid dehydrogenase deficiency = affects all three pathways (mineralocorticoids, glucocorticoids, and androgens)
 
-![](Endocrinology/Endocrine%20Pathologies/Diabetes/{9553D120-5D66-4C0E-83E8-13769B473765}.png)
+![](00%20media/{9553D120-5D66-4C0E-83E8-13769B473765}.png)
 
 - In utero, maternal steroids and the placenta help maintain electrolyte balance. After birth, it takes several days for the infant’s lack of aldosterone to manifest as profound "salt-wasting" → any 'male' with undescended testing should be screened for this to potentially prevent that salt crisis 
 # Epidemiology
@@ -24,6 +24,8 @@ modified: 2026-02-19T14:43:48-05:00
 - Aldosterone abnormalities = deficiency leads to salt wasting, hypovolemia, and hyperkalemia; excess leads to hypertension and hypokalemia
 - Androgen abnormalities = excess causes ambiguous genitalia in females (XX) and precocious puberty in males (XY) deficiency causes ambiguous genitalia in males
 - Hyperpigmentation in areas that are not exposed to sunlight (e.g., palm creases, mucous membranes of the oral cavity, genitalia) is a common feature in all forms of CAH
+	- This is because ACTH is high → produced using POMC (proopiomelanocortin) → splits into ACTH and MSH → ↑ skin pigmentation 
+	- Also seen in [Adrenal Insufficiency](Endocrinology/Endocrine%20Pathologies/Adrenal%20Insufficiency.md)
 
 |                            | Blood pressure            | XX (female) genotype                                                                                        | XY (male) genotype                                                                                                                                                |
 | -------------------------- | ------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -50,7 +52,7 @@ modified: 2026-02-19T14:43:48-05:00
 - Screening = often done via newborn blood testing for 17-hydroxyprogesterone levels
 - ACTH stimulation test = levels of steroid precursors will rise significantly in response to ACTH if 21β-hydroxylase deficiency or 11β-hydroxylase deficiency is present
 
-![](Endocrinology/Endocrine%20Pathologies/Diabetes/{3014961F-1154-4449-8FDE-2C30D50515FA}.png)
+![](00%20media/{3014961F-1154-4449-8FDE-2C30D50515FA}.png)
 - Preimplantation Genetic Testing (PGT-M): If the parents use IVF, embryos can be screened for the known familial mutations before implantation to ensure only unaffected embryos are transferred
 - Chorionic Villus Sampling (CVS) or Amniocentesis: To determine the sex and the CAH status of the fetus early in pregnancy
 - Cell-Free Fetal DNA: A non-invasive blood test from the mother can determine fetal sex as early as 6–9 weeks to see if the fetus is at risk of virilization (only females are at risk for ambiguous genitalia)

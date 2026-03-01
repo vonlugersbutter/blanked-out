@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-02-18T18:10:15-05:00
-modified: 2026-02-19T11:47:12-05:00
+modified: 2026-02-28T19:12:15-05:00
 ---
 - Steroid biochemistry = estrogens and androgens are derived from cholesterol and are poorly soluble in plasma they are carried by sex hormone binding globulins (shbgs) and albumin
 - Potency rankings
@@ -29,11 +29,32 @@ modified: 2026-02-19T11:47:12-05:00
 - Progesterone = synthesized primarily by the corpus luteum (but also the placenta and adrenal glands) it has a short half-life and is metabolized by the liver
 	- Often opposes estrogen
 	- Maintains the secretory phase of the uterine cycle, thickens cervical mucus to prevent sperm entry, relaxes uterine smooth muscle to prevent contractions, and raises body temperature
+- Spironolactone is a derivative of progesterone
+	- Acne, hirsutism, alopecia → blunts testosterone effects
+	- Amenorrhea 
+	- Eplerenone is an alternative, used in heart failure, does not cause gynecomastia 
 # Male reproductive hormones
 - Leydig cells = stimulated by LH to produce testosterone
 - Sertoli cells = stimulated by FSH to support and nourish developing spermatozoa and form the blood-testis barrier
 	- Secrete inhibin b (to inhibit FSH), androgen-binding protein (ABP) (to maintain high local testosterone), and anti-Mullerian hormone (aka Mullerian-inhibiting hormone or MIH)
-- Androgen metabolism = testosterone is converted to the more potent dihydrotestosterone (DHT) by 5- $\alpha$ reductase it can also be converted to estradiol by aromatase in adipose tissue and Leydig cells
+- Androgen metabolism = testosterone is converted to the more potent dihydrotestosterone (DHT) by 5-$\alpha$ reductase
+	- It can also be converted to estradiol by aromatase in adipose tissue and Leydig cells
+- Finasteride = 5-$\alpha$ reductase inhibitor, for hair loss and [Benign Prostatic Hyperplasia](Reproduction/Benign%20Prostatic%20Hyperplasia.md)
 - Testosterone therapy and anabolic steroids = used for hypogonadism, resulting in increased muscle mass and bone density
-	- Adverse effects include increased hematocrit, acne, and worsening 
+	- Adverse effects include increased hematocrit, acne, ↑ HDL/↓ LDL, ↓ sperm, gynecomastia (due to estrogen conversion and estrogen effects from SHBG) 
 	- Exogenous testosterone suppresses spermatogenesis by inhibiting LH secretion, which lowers intratesticular testosterone levels
+- Temperature effects
+	- Spermatogenesis requires ↓ temperature
+	- Sertoli cells are sensitive to this → inhibin production ↓ with higher temperature
+	- Leydig cells are less sensitive to this 
+- Cryptorchidism
+	- Low sperm counts due to ↑ temperature
+	- Inhibin levels ↓ 
+	- Risk of germ cell tumors, inguinal hernias, testicular torsion → twist spermatic cord → compression of veins → hemorrhagic infarction 
+	- Testes usually descend by 6 months 
+	- Orchiopexy → surgical placement in the scrotum, done after 6 months 
+- Variocele = dilatation of pampiniform plexus of spermatic veins 
+	- More common on the left → left spermatic vein → left renal vein
+	- Compressed between aorta and SMA (nutcracker effect)
+
+![400](00%20media/{8048437E-9AF1-47E6-80C7-BE12FA3D24F3}.png)

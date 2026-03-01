@@ -2,7 +2,7 @@
 title:
 description:
 created: 2025-09-13T18:26:37-04:00
-modified: 2026-02-19T13:19:21-05:00
+modified: 2026-02-28T19:50:33-05:00
 ---
 # Diabetes mellitus
 - Classification 
@@ -57,9 +57,12 @@ From a more cardiological perspective, pain during MI in diabetic patients may b
 - Fetal risks = poor maternal control increases risks of congenital anomalies (cardiac, neural tube), macrosomia (large for gestational age), and stillbirth
 - Gestational diabetes (GDM) = glucose intolerance first recognized during pregnancy, typically in the third trimester diagnosis often involves a two-step protocol (50 g challenge followed by 100 g OGTT) or a one-step 75 g OGTT
 # Diabetes insipidus
-- Neurogenic (central) di = caused by decreased avp release due to trauma, inflammation, or tumors affecting the hypothalamic-neurohypophyseal axis → treated with synthetic avp analogs (eg, desmopressin)
-- Nephrogenic di = caused by renal insensitivity to avp
-	- Most cases involve x-linked recessive mutations in the v2 receptor gene, while others result from mutations in the aqp2 gene
+- Neurogenic (central) DI = caused by decreased ADH release due to trauma, inflammation, or tumors affecting the hypothalamic-neurohypophyseal axis → treated with synthetic ADH analogs (eg, desmopressin)
+- Nephrogenic DI = caused by renal insensitivity to ADH 
+	- Most cases involve x-linked recessive mutations in the V2 receptor gene, while others result from mutations in the AQP2 gene
+	- Managed with low-sodium diets and thiazide diuretics to induce mild volume contraction and reduce urine volume
+- Gestational DI = during pregnancy, the placenta produces cysteine aminopeptidase, which degrades vasopressin, potentially unmasking a subclinical deficiency
+- Dehydration test is used to distinguish between types of DI by measuring urine osmolality plateau and the response to administered desmopressin MRI imaging is also useful; a normal posterior pituitary usually appears as a "bright spot" on T1-weighted images, which is typically absent in DI patients
 # References
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC10071002/
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC6560198/

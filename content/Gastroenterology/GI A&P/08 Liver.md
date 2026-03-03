@@ -18,7 +18,7 @@ modified: 2026-01-29T00:22:33-05:00
 - Blood supply = the liver receives 80% of its blood from portal veins (deoxygenated from the gi tract) and 20% from the hepatic artery
 - Portal triad = consists of a bile duct, hepatic artery, and portal vein
 - Zones = zone I (periportal) is affected first by viral hepatitis, zone III (centrilobular) is furthest from the blood supply, making it the most vulnerable to ischemia; it is also where fat accumulation begins in alcoholic liver disease and where p450 enzymes are most concentrated
-- See [Hepatitis](Gastroenterology/GI%20Disorders/Hepatitis.md)
+- See [Hepatitis](Gastroenterology/GI%20Pathologies/Hepatitis.md)
 # Blood supply
 - Portal circulation = unlike other organs, venous blood from the intestine flows first to the liver via the portal vein. This allows for first-pass metabolism and detoxification of absorbed substances by hepatocytes and immune regulation by Kupffer cells
 - Blood flows through hepatic sinusoids, which receive oxygenated blood via the hepatic artery and nutrient-rich blood via the hepatic portal vein

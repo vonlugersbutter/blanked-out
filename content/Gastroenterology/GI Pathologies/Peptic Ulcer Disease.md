@@ -16,8 +16,8 @@ modified: 2026-01-30T19:28:23-05:00
 	- Brunner’s glands in the duodenum hypertrophy to provide additional alkaline fluid 
 	- Complications include bleeding from the gastroduodenal artery or perforation
 - Causes: *H. pylori* infection, prolonged NSAID use, hypersecretory states, stress
-	- Hypersecretory state could be something like [Zollinger-Ellison Syndrome](Gastroenterology/GI%20Disorders/Zollinger-Ellison%20Syndrome.md)
-- Smoking, heavy alcohol use, glucocorticoids, caffeine, genetic factors → all risk factors for [GERD](Gastroenterology/GI%20Disorders/GERD.md) and also [Chronic Gastritis](Gastroenterology/GI%20Disorders/Chronic%20Gastritis.md)
+	- Hypersecretory state could be something like [Zollinger-Ellison Syndrome](Gastroenterology/GI%20Pathologies/Zollinger-Ellison%20Syndrome.md)
+- Smoking, heavy alcohol use, glucocorticoids, caffeine, genetic factors → all risk factors for [GERD](Gastroenterology/GI%20Pathologies/GERD.md) and also [Chronic Gastritis](Gastroenterology/GI%20Pathologies/Chronic%20Gastritis.md)
 - Other drugs, infections can also cause it 
 - In gastric cases, *H. pylori* secretes urease →  producing ammonium to protect itself from acid this increases gastric pH, triggering gastrin release and further acid production
 	- Bacterial colonization, attachment to epithelial cells, cagA toxin production that disrupts mucosal barrier and causes damage to underlying cells 
@@ -28,7 +28,7 @@ modified: 2026-01-30T19:28:23-05:00
 - Usually middle aged people, more males
 # Clinical features
 - Epigastrium, gnawing, burning pain
-- Indigestion, [GERD](Gastroenterology/GI%20Disorders/GERD.md), nausea, vomiting, bloating 
+- Indigestion, [GERD](Gastroenterology/GI%20Pathologies/GERD.md), nausea, vomiting, bloating 
 - Gastric ulcers of the lesser curvature may cause bleeding from the left gastric artery
 	- Here, the pain increases after eating, so weight **loss**
 - Duodenal ulcers of the posterior wall may cause bleeding from the gastroduodenal artery
@@ -45,7 +45,7 @@ modified: 2026-01-30T19:28:23-05:00
 	- Invasive *H. pylori* testing, biopsy 
 - An atypical location raises suspicion for adenocarcinoma 
 # Prognosis
-- Untreated *H. pylori* , can lead to [Chronic Gastritis](Gastroenterology/GI%20Disorders/Chronic%20Gastritis.md), also associated with [MALT lymphoma](Gastroenterology/GI%20Disorders/MALT%20lymphoma.md), gastric adenocarcinoma 
+- Untreated *H. pylori* , can lead to [Chronic Gastritis](Gastroenterology/GI%20Pathologies/Chronic%20Gastritis.md), also associated with [MALT lymphoma](Gastroenterology/GI%20Pathologies/MALT%20lymphoma.md), gastric adenocarcinoma 
 ## Bleeding ulcer
 - Much more likely with posterior duodenal ulcers!
 - Hematemesis (coffee-ground)
@@ -78,7 +78,7 @@ modified: 2026-01-30T19:28:23-05:00
 - *H. pylori* eradication therapy → quadruple therapy of PPI, bismuth, clarithromycin, amoxicillin/metronidazole  
 - Gastric ulcers are more risky for malignancies, take multiple biopsies from different areas
 - For duodenal, only need to take from those that suggest malignancies 
-- Could treat [Zollinger-Ellison Syndrome](Gastroenterology/GI%20Disorders/Zollinger-Ellison%20Syndrome.md) if it is underlying based on gastrin levels 
+- Could treat [Zollinger-Ellison Syndrome](Gastroenterology/GI%20Pathologies/Zollinger-Ellison%20Syndrome.md) if it is underlying based on gastrin levels 
 - Elective surgeries
 	- Vagotomy, but associated with complications
 	- Billroth I = distal gastrectomy with end-to-end or side-to-end gastroduodenostomy

@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-02-10T11:12:12-05:00
-modified: 2026-03-01T00:41:28-05:00
+modified: 2026-03-01T11:39:57-05:00
 ---
 # Definition
 - Insufficient cortisol production 
@@ -38,6 +38,7 @@ modified: 2026-03-01T00:41:28-05:00
 	- Sudden discontinuation of corticosteroids
 	- Or undiagnosed, and person experiences some kind of huge stress 
 	- Can also mimic an acute abdomen 
+	- Cortisol → ↓ ADH → loss of cortisol will ↑ ADH → free water retention and dilutional **hyponatremia**
 	- 5S's → Salt (0.9% saline), Sugar (50% dextrose), Steroids (100 mg hydrocortisone IV once, then 200 mg over 24 hours), Support (normal saline to correct hypotension and electrolyte abnormalities), and Search (for the underlying disorder)
 - In secondary and tertiary, if they don't get stimulated, the adrenal gland will eventually become atrophied and it will become primary 
 # Treatment 

@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-02-18T18:20:49-05:00
-modified: 2026-02-28T19:03:44-05:00
+modified: 2026-03-02T07:07:02-05:00
 ---
 # Definition
 - A mutation in the androgen receptor in 46 XY males, inherited X-linked disorder 

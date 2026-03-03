@@ -5,7 +5,7 @@ created: 2026-01-29T13:06:58-05:00
 modified: 2026-01-29T13:14:45-05:00
 ---
 # Antacids
-Antacids are over-the-counter therapies frequently utilized to manage symptoms of [[GERD]]. They function by reacting with gastric HCl to neutralize stomach contents.
+Antacids are over-the-counter therapies frequently utilized to manage symptoms of [[Gastroenterology/GI Pathologies/GERD]]. They function by reacting with gastric HCl to neutralize stomach contents.
 - Sodium bicarbonate (Alka seltzer) = the reaction ($NaHCo_3 + HCl \leftrightarrow NaCl + H_2O + CO_2$) produces carbon dioxide, which can lead to bloating and belching absorption of bicarbonate
 	- Can cause alkalosis, while the resorption of sodium chloride may result in fluid retention
 - Calcium carbonate (tums) = the reaction ($CaCO_3 + 2HCl \leftrightarrow CaCl_2 + H_2O + CO_2$) also produces carbon dioxide, leading to bloating and belching
@@ -36,7 +36,7 @@ Antacids are over-the-counter therapies frequently utilized to manage symptoms o
 # Mucosal protective agents
 - Bismuth salicylate (Pepto-Bismol) = coats ulcers and erosions to protect them from acid the salicylate component 
 	- Inhibits prostaglandins to reduce stool frequency in diarrhea, while the bismuth reacts with hydrogen sulfide in the colon to blacken the stools
-	- Also has antimicrobial activity against *H. pylori* and is used in "quadruple therapy" alongside a PPI, clarithromycin, and amoxicillin or metronidazole (see [Peptic Ulcer Disease](Gastroenterology/GI%20Disorders/Peptic%20Ulcer%20Disease.md))
+	- Also has antimicrobial activity against *H. pylori* and is used in "quadruple therapy" alongside a PPI, clarithromycin, and amoxicillin or metronidazole (see [Peptic Ulcer Disease](Gastroenterology/GI%20Pathologies/Peptic%20Ulcer%20Disease.md))
 - Sucralfate = sulfated polysaccharide combined with aluminum hydroxide
 	- Binds to positively charged proteins in ulcers to form a protective barrier against acid, ulcer healing
 # Laxatives

@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-02-26T16:52:19-05:00
-modified: 2026-03-01T00:57:55-05:00
+modified: 2026-03-01T16:51:47-05:00
 ---
 # Definition
 Excessive production of thyroid hormones.
@@ -20,6 +20,7 @@ Excessive production of thyroid hormones.
 ## Pathophysiology
 - Type 2 hypersensitivity reaction → lymphocyte infiltration → cytokine receptors
 - B cells, activated by T-helper cells, produce thyroid-stimulating immunoglobulins (TSI/TSAb) that act as agonists to TSH receptors
+- Thyroid hormones increase the expression of beta-adrenergic receptors and increase sensitivity to catecholamines → increasing the number of Calcium (Ca2+) ATPase and Na+/K+ ATPase pumps in skeletal muscles
 ## Jod-Basedow phenomenon
 - Iodine-induced hyperthyroidism, regions of iodine deficiency, where introduction of iodine causes this
 - Often in those with toxic adenomas → drugs administered with high iodine content like CT contrast dye or amiodarone 
@@ -55,8 +56,6 @@ Excessive production of thyroid hormones.
 	- Propyl thyrouracil
 	- Prednisone
 	- Potassium iodide to stop TPO synthesis
-- For evaluation, use the Burch-Wartofsky Point Scale (BWPS) for Thyrotoxicosis
-	- Takes into account temperature, CNS involvement, HR, presence of [Atrial Fibrillation (AF)](Cardiology/Cardiac%20Pathologies/Arrhythmias/Atrial%20Fibrillation%20(AF).md), presence of precipitating event 
 # Treatment 
 - Radioactive ablation with a large amount of radioactive iodine 
 - Thionamides
@@ -76,3 +75,8 @@ Excessive production of thyroid hormones.
 	- Propylthiouracil (PTU) is generally preferred in the first trimester to avoid rare methimazole-associated birth defects
 	- Methimazole (MMI) can be used in subsequent trimesters
 	- Aim for mild undertreatment; the maternal free T4 should be kept at or slightly above the upper limit of normal to prevent fetal hypothyroidism, which can impair cognitive development
+## Clinical scoring
+- Wayne's index for thyrotoxicosis
+- For evaluation, use the Burch-Wartofsky Point Scale (BWPS) for Thyrotoxicosis
+	- Takes into account temperature, CNS involvement, HR, presence of [Atrial Fibrillation (AF)](Cardiology/Cardiac%20Pathologies/Arrhythmias/Atrial%20Fibrillation%20(AF).md), presence of precipitating event 
+- 

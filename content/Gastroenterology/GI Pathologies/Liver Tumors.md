@@ -6,7 +6,7 @@ modified: 2026-01-28T16:19:37-05:00
 ---
 # Definition
 # Etiology
-- Common precursors include hepatitis b and c, alcoholic cirrhosis, [Wilson's Disease](Gastroenterology/GI%20Disorders/Wilson's%20Disease.md), [Hemochromatosis](Gastroenterology/GI%20Disorders/Hemochromatosis.md), and $\alpha$ -1 antitrypsin deficiency
+- Common precursors include hepatitis b and c, alcoholic cirrhosis, [Wilson's Disease](Gastroenterology/GI%20Pathologies/Wilson's%20Disease.md), [Hemochromatosis](Gastroenterology/GI%20Pathologies/Hemochromatosis.md), and $\alpha$ -1 antitrypsin deficiency
 - Aspergillus and aflatoxin = the fungus aspergillus produces aflatoxin, which can contaminate crops like corn, soybeans, and peanuts high dietary intake of aflatoxin is associated with HCC, though industrialized countries typically screen for this toxin
 - Hepatic adenoma = benign epithelial tumors, usually solitary and located in the right lobe they are most common in young women (20s to 40s) and are strongly associated with contraceptive use and anabolic steroids there are rare case reports of these tumors rupturing during pregnancy
 - Hepatic hemangioma (cavernous hemangioma) = most common benign liver tumor, consisting of vascular spaces often filled with thrombus they are usually discovered incidentally, but biopsy carries a risk of fatal hemorrhage

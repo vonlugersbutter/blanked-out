@@ -46,7 +46,7 @@ Basically some infection in the GI tract, and then that is going to cause things
 - Inflammatory, invasion or cytotoxin → colon or distal small bowel → dysentery or inflammatory diarrhea → fecal PMNL, ↑ lactoferrin → shigella, Salmonella, EHEC, EIEC
 - Penetrating → distal small bowel → enteric fever → fecal mononuclear leukocytes → Salmonella typhi, Y. enterocolitica 
 # Prognosis
-- Chronic sequelae = post-diarrhea complications include lactase deficiency, [Irritable Bowel Syndrome](Gastroenterology/GI%20Disorders/Irritable%20Bowel%20Syndrome.md) (~10% of travelers), reactive arthritis (Shigella, Salmonella), HUS (EHEC), and Guillain-Barré syndrome (Campylobacter)
+- Chronic sequelae = post-diarrhea complications include lactase deficiency, [Irritable Bowel Syndrome](Gastroenterology/GI%20Pathologies/Irritable%20Bowel%20Syndrome.md) (~10% of travelers), reactive arthritis (Shigella, Salmonella), HUS (EHEC), and Guillain-Barré syndrome (Campylobacter)
 # Treatment 
 - Rehydration = the cornerstone of therapy; oral rehydration solution (ORS) utilizes glucose-facilitated sodium absorption, which remains intact despite cholera toxin
 - Bismuth subsalicylate can be used as a prophylactic for traveler's diarrhea

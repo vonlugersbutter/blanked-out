@@ -69,9 +69,9 @@ modified: 2026-01-31T16:23:29-05:00
 # Drug interactions
 - NSAIDs predispose to injury by inhibiting prostaglandins, which are vital mucus and bicarbonate secretion activators 
 - Macrolides are associated with pyloric stenosis = acting as motilin agonists, stimulating excessive, prolonged contractions and hypertrophy (thickening) of the pyloric muscle, obstructing food passage
-	- Increases risk for [Infantile Hypertrophic Pyloric Stenosis](Gastroenterology/GI%20Disorders/Infantile%20Hypertrophic%20Pyloric%20Stenosis.md)
+	- Increases risk for [Infantile Hypertrophic Pyloric Stenosis](Gastroenterology/GI%20Pathologies/Infantile%20Hypertrophic%20Pyloric%20Stenosis.md)
 # Disorders
-- Feedback regulation → lead to more acid secretion and makes it more likely for bacteria to persist, make [Peptic Ulcer Disease](Gastroenterology/GI%20Disorders/Peptic%20Ulcer%20Disease.md) more likely 
+- Feedback regulation → lead to more acid secretion and makes it more likely for bacteria to persist, make [Peptic Ulcer Disease](Gastroenterology/GI%20Pathologies/Peptic%20Ulcer%20Disease.md) more likely 
 	- Enterogastric reflexes = distension, acidity, hypertonicity, or fat in the duodenum triggers reflexes to slow gastric emptying
 	- "Ileal Brake" = fat or glucose in the ileum signals that the proximal intestine is overwhelmed, retarding further gastric exit
 	- CCK released in response to lipids; delays gastric emptying by binding to CCK1 receptors on vagal sensory afferents

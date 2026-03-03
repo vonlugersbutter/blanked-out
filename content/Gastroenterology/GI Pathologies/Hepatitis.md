@@ -7,7 +7,7 @@ modified: 2026-01-31T19:39:33-05:00
 # Definition
 Inflammation of the liver, basically.
 - Liver fibrosis = fibroblast proliferation, putting down ECM components, like collagen when liver injury happens
-- [Cirrhosis](Gastroenterology/GI%20Disorders/Cirrhosis.md) is the final stage of chronic liver disease 
+- [Cirrhosis](Gastroenterology/GI%20Pathologies/Cirrhosis.md) is the final stage of chronic liver disease 
 # Etiology
 ## Alcohol-associated hepatitis 
 - Alcoholic liver disease = progresses from alcoholic fatty liver (asymptomatic, reversible accumulation of fatty acids) to acute hepatitis and eventually cirrhosis
@@ -54,4 +54,4 @@ Inflammation of the liver, basically.
 - For acetaminophen overdose, n-acetylcysteine is used to counteract the production of NAQPI 
 - Early liver transplantation may have to occur 
 # Prognosis
-- Can eventually progress to [Cirrhosis](Gastroenterology/GI%20Disorders/Cirrhosis.md)
+- Can eventually progress to [Cirrhosis](Gastroenterology/GI%20Pathologies/Cirrhosis.md)

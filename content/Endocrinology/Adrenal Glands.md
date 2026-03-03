@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-02-09T17:40:55-05:00
-modified: 2026-03-01T00:53:59-05:00
+modified: 2026-03-01T19:31:50-05:00
 ---
 - Location = situated above the kidneys
 - Vascular supply
@@ -104,7 +104,6 @@ modified: 2026-03-01T00:53:59-05:00
 - See [Pheochromocytoma](Endocrinology/Endocrine%20Pathologies/Pheochromocytoma.md)
 ## Paragangliomas
 - Catecholamine-secreting paragangliomas arise from extra-adrenal sympathetic ganglia
-
 # Note on adrenal tumors
 - Incidentalomas = adrenal masses found on imaging for other reasons; 10% prevalence with age
 	- Evaluation must check for hormonal function and malignancy (size > 4 cm is a risk)

@@ -10,7 +10,7 @@ Genes that encode the checkpoint-control proteins, which are useful in triggerin
 Genes that encode proteins useful for the induction of apoptosis (e.g., p53)
 Genes that encode proteins involved in the repair of DNA (MSH2, and p53)
 
-![](Oncology/{4B67651B-65EB-498E-A983-171A2FB81B5C}.png)
+![](00%20media/{4B67651B-65EB-498E-A983-171A2FB81B5C}.png)
 
 - Point Mutations: A small, single nucleotide change can alter the amino acid sequence of a protein, making it hyperactive or unable to turn off
 	- Example: The RAS gene family, where mutations (e.g., codons 12, 13, 61) impair GTPase activity, keeping the protein constantly active

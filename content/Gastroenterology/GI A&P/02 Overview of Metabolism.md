@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-01-21T22:55:09-05:00
-modified: 2026-02-10T11:06:45-05:00
+modified: 2026-03-01T11:59:56-05:00
 ---
 # Mechanisms of ATP generation
 - Substrate-level phosphorylation = transfer of a high-energy phosphate group from an intermediate compound (substrate) directly to ADP
@@ -42,6 +42,7 @@ modified: 2026-02-10T11:06:45-05:00
 	- VLDLs (Very-Low-Density Lipoproteins): Transport endogenous triglycerides (from the liver) to adipocytes
 	- LDLs (Low-Density Lipoproteins): Deliver cholesterol to body cells (known as "bad" cholesterol; high levels increase coronary artery disease risk)
 	- HDLs (High-Density Lipoproteins): Remove excess cholesterol from cells and transport it to the liver for elimination (known as "good" cholesterol; high levels decrease coronary artery disease risk)
+- Also see [Cholesterol Handling](Endocrinology/Cholesterol%20Handling.md)
 ## Storage 
 - Stored as triglycerides in adipose tissue
 ## Processing
@@ -121,3 +122,9 @@ modified: 2026-02-10T11:06:45-05:00
 	- Entry into Krebs cycle (gateway for molecules being oxidized to generate ATP)
 	- Synthesis of lipids (fatty acids, ketone bodies, cholesterol)
 	- Note: fatty acids cannot be used to generate glucose because mammals cannot reconvert acetyl CoA back to pyruvic acid
+# Miscellaneous disorders
+- Alpha-ketoglutarate dehydrogenase is an enzyme in the TCA cycle → converts α-ketoglutarate to succinyl CoA → requires B5 (pantothenic acid), B1 (thiamine), B2 (riboflavin), B3 (niacin), and lipoic acid
+	- B5 = precursor to CoA
+		- Pantothenic acid deficiency → rare, war or famine, irritability, abdominal cramps, and burning paresthesias of the feet (burning feet syndrome)
+- Cori disease is an autosomal recessive glycogen storage disorder resulting from a deficiency of glycogen debranching enzyme, which performs 2 functions as α-1,6-glucosidase and 4-α-D-glucanotransferase
+	- Presents with hypotonia, muscle wasting, mild hypoglycemia, and ketosis, as observed in this patient.

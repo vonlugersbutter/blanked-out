@@ -5,13 +5,13 @@ created: 2026-01-31T21:44:56-05:00
 modified: 2026-02-01T19:33:12-05:00
 ---
 # Definition
-Bacterial infection of the biliary tract, especially after something like [Cholelithiasis](Gastroenterology/GI%20Disorders/Cholelithiasis.md).
+Bacterial infection of the biliary tract, especially after something like [Cholelithiasis](Gastroenterology/GI%20Pathologies/Cholelithiasis.md).
 # Etiology
 - Biliary tract obstruction, bacteria comes into the bile ducts, and then ascends the tracts to make its way into the duct and even hepatic ducts 
-- Could also be because of a stricture or obstruction, or [Acute Pancreatitis](Gastroenterology/GI%20Disorders/Acute%20Pancreatitis.md)
+- Could also be because of a stricture or obstruction, or [Acute Pancreatitis](Gastroenterology/GI%20Pathologies/Acute%20Pancreatitis.md)
 - Biliary-enteric fistula could lead to contamination of bile with intestinal contents 
 # Epidemiology
-- Much more common in women, in patients with existing [Cholelithiasis](Gastroenterology/GI%20Disorders/Cholelithiasis.md)
+- Much more common in women, in patients with existing [Cholelithiasis](Gastroenterology/GI%20Pathologies/Cholelithiasis.md)
 - Usually in middle-aged women 
 # Clinical features
 - Really important → Charcot's triad
@@ -35,7 +35,7 @@ Bacterial infection of the biliary tract, especially after something like [Chole
 - Definite = at least 1 sign from each above category 
 - Get CBC, CRP, LFTs, blood cultures, bile cultures during drainage
 - Test severity = blood gas analysis, BMP for AKI, PT/INR for coagulopathy 
-- Get serum lipase and amylase to differentiate from [Acute Pancreatitis](Gastroenterology/GI%20Disorders/Acute%20Pancreatitis.md) 
+- Get serum lipase and amylase to differentiate from [Acute Pancreatitis](Gastroenterology/GI%20Pathologies/Acute%20Pancreatitis.md) 
 - Imaging
 	- RUQ U/S
 		- Dilated CBD, dilated intrahepatic duct

@@ -16,7 +16,7 @@ modified: 2026-01-25T23:10:04-05:00
 # Prognosis
 # Investigations
 # Clinical features
-- Herniation is covered in peritoneum, and passes through the umbilical cord, as opposed to [Gastroschisis](Gastroenterology/GI%20Disorders/Gastroschisis.md)
+- Herniation is covered in peritoneum, and passes through the umbilical cord, as opposed to [Gastroschisis](Gastroenterology/GI%20Pathologies/Gastroschisis.md)
 - Normal GI function, many associated genetic defects
 	- Trisomy 21 (Down syndrome)
 	- Trisomy 18 (Edwards syndrome)

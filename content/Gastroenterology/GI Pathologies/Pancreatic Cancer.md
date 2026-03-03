@@ -8,7 +8,7 @@ modified: 2026-01-31T16:49:45-05:00
 
 # Etiology
 - Most pancreatic cancers are adenocarcinomas, more commonly found at the head of the pancreas
-- Age >50, smoking, diabetes, and long-standing [Chronic Pancreatitis](Gastroenterology/GI%20Disorders/Chronic%20Pancreatitis.md) (>20 years)
+- Age >50, smoking, diabetes, and long-standing [Chronic Pancreatitis](Gastroenterology/GI%20Pathologies/Chronic%20Pancreatitis.md) (>20 years)
 - Also associated with BRCA2 mutations, particularly in Ashkenazi Jews
 # Epidemiology
 

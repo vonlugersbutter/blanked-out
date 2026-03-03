@@ -14,7 +14,7 @@ modified: 2026-01-31T21:38:19-05:00
 	- Chronic alcohol use disorder
 	- MASLD
 	- Autoimmune conditions
-	- Genetic conditions, see [Wilson's Disease](Gastroenterology/GI%20Disorders/Wilson's%20Disease.md), or alpha-1 anti-trypsin deficiency 
+	- Genetic conditions, see [Wilson's Disease](Gastroenterology/GI%20Pathologies/Wilson's%20Disease.md), or alpha-1 anti-trypsin deficiency 
 	- Hepatic vein congestion, like in Budd-Chiari (portal vein hypertension)
 - The basic processes underlying all of this
 	- Degeneration and necrosis of hepatocytes, activation of Kuppfer cells and hepatic stellate cells
@@ -48,7 +48,7 @@ modified: 2026-01-31T21:38:19-05:00
 		- Biopsy is the gold standard for diagnosis but is often not required if antibodies are present  
 	- Treatment = ursodeoxycholic acid (UDCA) is the only effective therapy; it replaces endogenous bile acids and improves liver function tests
 		- Liver transplant is an option for advanced disease
-- Associated disorders = PBC is frequently associated with other autoimmune disorders, most commonly Sjogren’s syndrome → not to be confused with primary sclerosing cholangitis, which is the one that's common in men and [Inflammatory Bowel Disease](Gastroenterology/GI%20Disorders/Inflammatory%20Bowel%20Disease.md)
+- Associated disorders = PBC is frequently associated with other autoimmune disorders, most commonly Sjogren’s syndrome → not to be confused with primary sclerosing cholangitis, which is the one that's common in men and [Inflammatory Bowel Disease](Gastroenterology/GI%20Pathologies/Inflammatory%20Bowel%20Disease.md)
 # Epidemiology
 - More common in men
 - Important cause of mortality, most deaths in 50s or 60s 

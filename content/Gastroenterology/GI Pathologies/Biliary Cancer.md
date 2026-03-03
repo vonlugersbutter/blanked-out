@@ -14,15 +14,15 @@ Cancers of the biliary tract.
 - Ampullary cancer = ampulla of Vater
 - Gallbladder 
 # Etiology 
-- Primary sclerosing cholangitis → remember that this was a thing that happened in [Inflammatory Bowel Disease](Gastroenterology/GI%20Disorders/Inflammatory%20Bowel%20Disease.md)
+- Primary sclerosing cholangitis → remember that this was a thing that happened in [Inflammatory Bowel Disease](Gastroenterology/GI%20Pathologies/Inflammatory%20Bowel%20Disease.md)
 - Liver fluke infection
-- Chronic liver disease, chronic [Hepatitis](Gastroenterology/GI%20Disorders/Hepatitis.md)
+- Chronic liver disease, chronic [Hepatitis](Gastroenterology/GI%20Pathologies/Hepatitis.md)
 # Epidemiology
 - More common in males than females
 - 60s to 70s
 # Clinical features
 - Signs of cholestasis, jaundice, pale stools, dark urine, pruritu
-- Courvoisier sign = painless jaundice, but in this case, not [Pancreatic Cancer](Gastroenterology/GI%20Disorders/Pancreatic%20Cancer.md)
+- Courvoisier sign = painless jaundice, but in this case, not [Pancreatic Cancer](Gastroenterology/GI%20Pathologies/Pancreatic%20Cancer.md)
 - Intrahepatic CCA usually has nonspecific B symptoms, dull RUQ pain, no cholestasis
 # Investigations
 - Liver studies, abdominal US, routine liver studies, tumor markers

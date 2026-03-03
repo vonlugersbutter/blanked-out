@@ -5,7 +5,7 @@ created: 2026-02-01T21:31:07-05:00
 modified: 2026-02-01T21:43:32-05:00
 ---
 # Definition
-- Usually from intestinal resection to treat things like Crohn's disease in [Inflammatory Bowel Disease](Gastroenterology/GI%20Disorders/Inflammatory%20Bowel%20Disease.md), herniations, ischemias, [Malrotation](Gastroenterology/GI%20Disorders/Malrotation.md) 
+- Usually from intestinal resection to treat things like Crohn's disease in [Inflammatory Bowel Disease](Gastroenterology/GI%20Pathologies/Inflammatory%20Bowel%20Disease.md), herniations, ischemias, [Malrotation](Gastroenterology/GI%20Pathologies/Malrotation.md) 
 - <200 cm of remaining small bowel
 # Etiology
 - Multiple surgical resections 
@@ -41,4 +41,4 @@ modified: 2026-02-01T21:43:32-05:00
 - Oral rehydration solution, and do not drink too much plain water because it would cause osmotic diarrhea eek and electrolyte depletion 
 # Prognosis
 - Vitamin D deficiency because of limited fat absorption, osteoporosis, assess bone density using DEXA scans 
-- Renal calcium oxalate stones because fat binds to the calcium → [Nephrolithiasis](Nephrology/Renal%20Disorders/Nephrolithiasis.md) 
+- Renal calcium oxalate stones because fat binds to the calcium → [Nephrolithiasis](Nephrology/Renal%20Pathologies/Nephrolithiasis.md) 

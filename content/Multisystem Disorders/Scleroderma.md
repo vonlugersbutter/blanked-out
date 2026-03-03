@@ -14,7 +14,7 @@ Systemic sclerosis has different types:
 		-  C: Calcinosis cutis = small white calcium deposits on the pressure points of the extremities (e.g., elbows, knees, fingertips) 
 		- R: Raynaud phenomenon = disorder causing small blood vessels in the fingers, toes, ears, or nose to spasm and tighten, restricting blood flow in response to cold or stress → turns blue or white 
 		- E: Esophageal hypomotility (systemic sclerosis): smooth muscle atrophy and fibrosis → esophageal dysmotility and decreased lower esophageal sphincter pressure → dysphagia, gastroesophageal reflux, heartburn → aspiration, Barrett esophagus, stricture
-			- Hence the relationship to [[Gastroenterology/GI Disorders/GERD]]
+			- Hence the relationship to [[Gastroenterology/GI Pathologies/GERD]]
 		- S: Sclerodactyly = localized thickening, hardening, and tightening of the skin on the fingers and toes, often causing a claw-like, tapered, or shiny appearance with reduced mobility
 		- T: Telangiectasia = spider veins from vascular insult 
 - As opposed to diffuse systemic sclerosis 
@@ -32,7 +32,7 @@ Systemic sclerosis has different types:
 - Noninflammatory proliferative or obliterative vasculopathy followed by fibrosis
 - Inflammatory infiltrates of T cells 
 - Basically all the organs undergo fibrosis
-- LES becomes hypotonic, making risk for esophageal strictures, increasing risk for Barrett's esophageal strictures, [GERD](Gastroenterology/GI%20Disorders/GERD.md), [Esophageal Cancer](Gastroenterology/GI%20Disorders/Esophageal%20Cancer.md) 
+- LES becomes hypotonic, making risk for esophageal strictures, increasing risk for Barrett's esophageal strictures, [GERD](Gastroenterology/GI%20Pathologies/GERD.md), [Esophageal Cancer](Gastroenterology/GI%20Pathologies/Esophageal%20Cancer.md) 
 - [Interstitial lung diseases](Respirology/Respiratory%20Pathologies/Interstitial%20lung%20diseases.md), showing the restrictive pattern from fibrosis 
 - Can present with small intestinal bowel overgrowth (SIBO) due to lack of motility, investigate using hydrogen breath test 
 - Watermelon stomach, or Gastric Antral Vascular Ectasia (GAVE), is a rare but significant vascular complication of systemic sclerosis (scleroderma), characterized by red streaks of dilated blood vessels in the stomach, often causing chronic iron deficiency anemia or GI bleeding
@@ -69,6 +69,6 @@ Score of 9 or higher is positive.
 - Immunosuppressive agents, individual monoclonal antibodies for particular disorders
 - No corticosteroids, as that can cause scleroderma renal crisis 
 	- Only in cases of necessity, shortest possible duration + dose 
-- Apparently Nissen fundoplication is contraindicated here because it would close up LES, use aggressive pharmacologic treatments for [GERD](Gastroenterology/GI%20Disorders/GERD.md) instead 
+- Apparently Nissen fundoplication is contraindicated here because it would close up LES, use aggressive pharmacologic treatments for [GERD](Gastroenterology/GI%20Pathologies/GERD.md) instead 
 # References
 - https://www.ncbi.nlm.nih.gov/books/NBK430875/

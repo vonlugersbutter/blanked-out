@@ -19,11 +19,11 @@ modified: 2026-01-29T00:13:46-05:00
 	- Inhibitor pathways use NO and VIP to relax lower areas ahead of LES opening
 	- ACh to contract above the bolus
 - Movement into stomach is done by positive pressure of peristaltic wave and negative pressure within gastric cavity 
-- [Achalasia](Gastroenterology/GI%20Disorders/Achalasia.md) involves the LES not relaxing, makes a blockage → dysphagia
+- [Achalasia](Gastroenterology/GI%20Pathologies/Achalasia.md) involves the LES not relaxing, makes a blockage → dysphagia
 # Disorders
-- [GERD](Gastroenterology/GI%20Disorders/GERD.md)
-- [Esophageal Cancer](Gastroenterology/GI%20Disorders/Esophageal%20Cancer.md)
-- [Esophageal Atresia](Gastroenterology/GI%20Disorders/Esophageal%20Atresia.md)
+- [GERD](Gastroenterology/GI%20Pathologies/GERD.md)
+- [Esophageal Cancer](Gastroenterology/GI%20Pathologies/Esophageal%20Cancer.md)
+- [Esophageal Atresia](Gastroenterology/GI%20Pathologies/Esophageal%20Atresia.md)
 - Infectious esophagitis = common causes include candida (white membranes/pseudohyphae), HSV-1 ("punched out" ulcers), and cmv (linear ulcers, often in aids patients with cd4 < 50)
 - Eosinophilic esophagitis = an immune-mediated allergic reaction presenting with dysphagia and eosinophil-predominant inflammation on biopsy; it is a diagnosis of exclusion (eg, poor response to GERD treatment)
 - Structural defects 

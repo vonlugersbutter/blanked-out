@@ -8,7 +8,7 @@ modified: 2026-01-29T12:54:22-05:00
 # Etiology
 - Usually functional, not structural, due to RV enlargement
 - Rheumatic fever
-- [Carcinoid Tumors](Gastroenterology/GI%20Disorders/Carcinoid%20Tumors.md) = gastrointestinal neuroendocrine tumor releases serotonin metabolites into the bloodstream
+- [Carcinoid Tumors](Gastroenterology/GI%20Pathologies/Carcinoid%20Tumors.md) = gastrointestinal neuroendocrine tumor releases serotonin metabolites into the bloodstream
 	-  Responsible for the formation of endocardial plaques in the right side of the heart
 	- Involvement of the tricuspid valve immobilizes the leaflets, often resulting in substantial TR and, less often, TS
 # Epidemiology

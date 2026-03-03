@@ -31,4 +31,4 @@ Excess growth hormone production. See [Pituitary Gland](Endocrinology/Pituitary%
 - Somatostatin analogs (eg, octreotide) = to inhibit GH secretion
 - GH receptor antagonists (eg, Pegvisomant) = block peripheral IGF-1 production
 - Dopamine agonists (eg, Cabergoline) = especially if the tumor co-secretes prolactin
-- Acromegaly is associated with an increased risk of colonic polyps and adenocarcinoma due to the chronic proliferative effects of IGF-1 → colonoscopy to screen for [Colon Cancer](Gastroenterology/GI%20Disorders/Colon%20Cancer.md) 
+- Acromegaly is associated with an increased risk of colonic polyps and adenocarcinoma due to the chronic proliferative effects of IGF-1 → colonoscopy to screen for [Colon Cancer](Gastroenterology/GI%20Pathologies/Colon%20Cancer.md) 

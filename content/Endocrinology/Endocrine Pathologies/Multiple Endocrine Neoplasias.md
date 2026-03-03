@@ -14,7 +14,7 @@ modified: 2026-03-01T00:29:23-05:00
 	- Metachronous enlargement → selective resection will result in sustained clinical remission 
 - Enteropancreatic or pancreaticoduodenal neuroendocrine tumors (NETs) = occur in 30%–70% of patients
 	- Gastrinomas = most frequent functional enteropancreatic tumor (40%–60%); often small, multicentric, and ectopically located in the duodenal submucosa
-		- [Zollinger-Ellison Syndrome](Gastroenterology/GI%20Disorders/Zollinger-Ellison%20Syndrome.md)
+		- [Zollinger-Ellison Syndrome](Gastroenterology/GI%20Pathologies/Zollinger-Ellison%20Syndrome.md)
 		- They are often malignant, but for some unknown reason, are less aggressive than sporadic tumors 
 	- Insulinomas = Constitute ~20% of islet cell tumors; notably, metastases are present in up to 50% of MEN1 cases compared to 10% in sporadic cases
 	- Could also be VIPoma or glucagonoma 
@@ -86,7 +86,7 @@ modified: 2026-03-01T00:29:23-05:00
 - Family history of other tumors 
 - Primary hyperparathyroidism
 - Enteropancreatic tumors (gastrinomas, insulinomas)
-	- Gastrinoma would lead to [Peptic Ulcer Disease](Gastroenterology/GI%20Disorders/Peptic%20Ulcer%20Disease.md), diarrhea (due to acidity inactivating pancreatic enzymes) → heartburn and abdominal pain 
+	- Gastrinoma would lead to [Peptic Ulcer Disease](Gastroenterology/GI%20Pathologies/Peptic%20Ulcer%20Disease.md), diarrhea (due to acidity inactivating pancreatic enzymes) → heartburn and abdominal pain 
 - Pituitary adenomas
 	- In the case of a prolactinoma, the prolactin levels will be very high → much higher than you would expect from some kind of stalk effect (like there's another tumor there that's pressing on the stalk and preventing secretion of dopamine, so prolactin release is not inhibited)
 	- Bitemporal hemianopsia, compression of the nasal retinal fibers 
@@ -103,9 +103,9 @@ modified: 2026-03-01T00:29:23-05:00
 - Use endoscopic and intraoperative US instead, radiolabeled octreotide scanning 
 	- Still, a lot of gastrinomas are not found 
 ### Gastrinoma
-- Check fasting gastrin, and then also do a secretin test for [Zollinger-Ellison Syndrome](Gastroenterology/GI%20Disorders/Zollinger-Ellison%20Syndrome.md) 
+- Check fasting gastrin, and then also do a secretin test for [Zollinger-Ellison Syndrome](Gastroenterology/GI%20Pathologies/Zollinger-Ellison%20Syndrome.md) 
 	- Secretin stimulates gastrinomas but inhibits normal G cells
-	- Note that PPI use, which would be happening because of the [Peptic Ulcer Disease](Gastroenterology/GI%20Disorders/Peptic%20Ulcer%20Disease.md) that presents because of elevated gastrin → could also ↑ gastrin levels → check the levels after withdrawl from PPIs 
+	- Note that PPI use, which would be happening because of the [Peptic Ulcer Disease](Gastroenterology/GI%20Pathologies/Peptic%20Ulcer%20Disease.md) that presents because of elevated gastrin → could also ↑ gastrin levels → check the levels after withdrawl from PPIs 
 		- Same thing with histamine receptor blockers 
 - Check in the gastrinoma triangle
 	- Gastrinoma triangle (or Passaro’s triangle) is an anatomical region in the abdomen where 70%–90% of primary gastrinomas (neuroendocrine tumors secreting gastrin) arise
@@ -122,7 +122,7 @@ modified: 2026-03-01T00:29:23-05:00
 	- Occult metastases more likely
 	- Larger tumors, more clinically aggressive 
 - Hyperparathyroidism = Subtotal parathyroidectomy or total parathyroidectomy with forearm autograft is standard; persistence (12%) and recurrence (44%) are higher than in sporadic disease due to supernumerary glands and continued mitogenic drive
-	- Will also remove thymus gland prophylactically, to avoid any intrathymic parathyroid glands getting tumors, and to prevent thymic [Carcinoid Tumors](Gastroenterology/GI%20Disorders/Carcinoid%20Tumors.md)
+	- Will also remove thymus gland prophylactically, to avoid any intrathymic parathyroid glands getting tumors, and to prevent thymic [Carcinoid Tumors](Gastroenterology/GI%20Pathologies/Carcinoid%20Tumors.md)
 - Gastrinomas = mainstay is PPI therapy; surgical cure is difficult due to multicentricity, though resection of tumors > 3 cm is advised due to malignancy risk
 	- Usually low-grade malignant behavior, long periods of symptom-free survival 
 	- Could use chemotherapy or radiation for palliative care and advanced disease → especially in the case of hepatic metastases 

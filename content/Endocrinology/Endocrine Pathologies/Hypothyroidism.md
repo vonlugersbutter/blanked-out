@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-02-26T16:52:55-05:00
-modified: 2026-03-01T01:00:24-05:00
+modified: 2026-03-01T16:35:08-05:00
 ---
 # Definition
 Insufficient production of thyroid hormones, usually caused by permanent loss or destruction of the thyroid gland (primary hypothyroidism). 
@@ -76,3 +76,5 @@ Insufficient production of thyroid hormones, usually caused by permanent loss or
 - Labs are usually checked in 6 weeks → half-life of $T_4$ is about 7 days
 	- It takes roughly 5 half-lives (5–6 weeks) to reach a new steady-state concentration where the TSH can be accurately interpreted
 	- This is usually standard I think for most drugs 
+## Clinical scores
+- Zulewski’s score = definition of hypothyroidism 

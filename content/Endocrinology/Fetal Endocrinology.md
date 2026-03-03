@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-02-19T11:23:57-05:00
-modified: 2026-02-19T14:22:08-05:00
+modified: 2026-03-02T07:08:23-05:00
 ---
 # Placental-fetal interface
 The placenta serves as a selective barrier and a metabolic hub that coordinates communication between mother and fetus
@@ -21,14 +21,14 @@ The fetal pituitary is well-developed by the end of the first trimester
 The fetal [Adrenal Glands](Endocrinology/Adrenal%20Glands.md) is massive relative to adult size, forming 0.4% of body weight at term
 - Fetal zone (FZ) = unique inner zone accounts for 80% to 90% of the gland's mass and is primarily dedicated to producing DHEA and DHEAS
 	- Precursors for placental estrogen production
-- Steroidogenesis Paradox = during most of gestation, the adrenal lacks the enzyme HSD3B2, which prevents it from making its own cortisol or aldosterone, instead funneling precursors into androgens
+- Steroidogenesis paradox = during most of gestation, the adrenal lacks the enzyme HSD3B2, which prevents it from making its own cortisol or aldosterone, instead funneling precursors into androgens
 - Transient peak of cortisol occurs around 8 to 9 weeks, but the major cortisol surge happens near term, triggered by increased adrenal production and decreased placental inactivation
 # Fetal thyroid 
 The [[thyroid]] is one of the first endocrine organs to develop
 - Hormone synthesis begins at 11 weeks of gestation
 - Maturation of the full hypothalamo-pituitary-thyroid control system only develops in the third trimester
 - Early in pregnancy, the fetus is highly dependent on maternal T4 for brain development
-- Inactivation Milieu = fetal environment is generally a state of "low T3" to maintain anabolism 
+- Fetal environment is generally a state of "low T3" to maintain anabolism 
 	- Achieved by high levels of Type 3 deiodinase (D3), which converts T4 into inactive reverse T3 (rT3)
 # Fetal pancreas
 Largely an anabolic process fueled by a continuous supply of maternal glucose, see [Endocrine Pancreas](Endocrinology/Endocrine%20Pancreas.md)

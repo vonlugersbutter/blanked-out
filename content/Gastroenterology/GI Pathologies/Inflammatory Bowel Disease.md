@@ -15,7 +15,7 @@ modified: 2026-02-01T20:49:32-05:00
 | Frequency of BM    | Increased<br>Non-bloody, watery diarrhea usually                                                                                                                                                                                        | Increased<br>Bloody diarrhea<br>Tenesmus    |
 | Nutrition          | Malnourished                                                                                                                                                                                                                            | Usually normal                              |
 | Physical           | RLQ pain<br>Low-grade fever                                                                                                                                                                                                             | Pain in LLQ<br>Abdominal cramps, tenderness |
-| Comorbidities      | Nephrolithiasis = malabsorbed fats bind to calcium, lead to too much oxalate, oxalate stones<br><br>[Cholelithiasis](Gastroenterology/GI%20Disorders/Cholelithiasis.md) = terminal ileum affected, normal bile metabolism disrupted<br> | PSC                                         |
+| Comorbidities      | Nephrolithiasis = malabsorbed fats bind to calcium, lead to too much oxalate, oxalate stones<br><br>[Cholelithiasis](Gastroenterology/GI%20Pathologies/Cholelithiasis.md) = terminal ileum affected, normal bile metabolism disrupted<br> | PSC                                         |
 | Present in both    | Erythema nodosum<br>Uveitis<br>Arthritis                                                                                                                                                                                                | Erythema nodosum<br>Uveitis<br>Arthritis    |
 | Fistulas           | Common, especially to bladder or skin                                                                                                                                                                                                   | Rare                                        |
 | Antibodies         | ASCA                                                                                                                                                                                                                                    | P-ANCA                                      |
@@ -46,7 +46,7 @@ modified: 2026-02-01T20:49:32-05:00
 - Clinical features = strictures obstruct bile flow, causing jaundice, fatigue, and right upper quadrant pain
 - Lab and histopathology = labs show cholestasis (elevated alkaline phosphatase and conjugated bilirubin) and positive p-ANCA in up to 80% of patients histopathology shows characteristic "onion skin" periductal fibrosis
 - Diagnosis and treatment = diagnosis is confirmed via cholangiography (ERCP or MRCP), which shows biliary "beading" (strictures and dilations) treatment involves stenting or dilation of strictures and liver transplant patients require annual screening for cholangiocarcinoma
-- Major risk factor for [Biliary Cancer](Gastroenterology/GI%20Disorders/Biliary%20Cancer.md)
+- Major risk factor for [Biliary Cancer](Gastroenterology/GI%20Pathologies/Biliary%20Cancer.md)
 # Epidemiology
 - Basically same for both
 - Same in males and females, some suggest slight female predominance 
@@ -65,7 +65,7 @@ modified: 2026-02-01T20:49:32-05:00
 	- Think <u>C</u>rohn's causes non-<u>c</u>aseating granulomas
 - Location = the terminal ileum is a common location, leading to malabsorption of bile salts, vitamin B12 deficiency, and right lower quadrant pain it often spares the rectum and exhibits "skip" sections
 	- If someone gets complications here, then it can lead to ileocecal resection, and then they really can't reabsorb those bile acids 
-	- Decreased bile acid to cholesterol ratio causes cholesterol supersaturation and predisposes to cholesterol gallstone formation, which can lead to [Cholelithiasis](Gastroenterology/GI%20Disorders/Cholelithiasis.md)
+	- Decreased bile acid to cholesterol ratio causes cholesterol supersaturation and predisposes to cholesterol gallstone formation, which can lead to [Cholelithiasis](Gastroenterology/GI%20Pathologies/Cholelithiasis.md)
 - Microscopy = features non-caseating granulomas
 - Gross morphology = includes "cobblestone" mucosa, fistulas (peri-anal, abdominal, or enterovesical to the bladder), "creeping fat" wrapped around the bowel, and strictures (the "string sign")
 - Adenocarcinoma = risk exists only when the colon is involved
@@ -85,10 +85,10 @@ modified: 2026-02-01T20:49:32-05:00
 # Investigations
 ## Differentials
 - Bloody diarrhea has many causes, particularly infection diagnostic
-	- Studies often include stool cultures for salmonella, shigella, campylobacter, yersinia, e coli o157 =h7, c diff, and ova and parasites, see [Acute GI Infections](Gastroenterology/GI%20Disorders/Acute%20GI%20Infections.md)
+	- Studies often include stool cultures for salmonella, shigella, campylobacter, yersinia, e coli o157 =h7, c diff, and ova and parasites, see [Acute GI Infections](Gastroenterology/GI%20Pathologies/Acute%20GI%20Infections.md)
 ## Crohn's disease
 - Patient comes in, seen for chronic diarrhea
-- Rule out infectious causes using blood and stool studies, see [Acute GI Infections](Gastroenterology/GI%20Disorders/Acute%20GI%20Infections.md)
+- Rule out infectious causes using blood and stool studies, see [Acute GI Infections](Gastroenterology/GI%20Pathologies/Acute%20GI%20Infections.md)
 - Use endoscopy with histological examination, cross-sectional studies (CT, MRI), and the lab studies to make the diagnosis
 ### Histological exam
 - Use ileocolonoscopy 
@@ -111,7 +111,7 @@ modified: 2026-02-01T20:49:32-05:00
 - Antibodies = elevated anti-saccharomyces cerevisiae antibodies (ASCA) are seen
 ## Ulcerative colitis
 - Antibodies = p-ANCA is often seen in UC, though it is not reliable for routine clinical use
-- Lab studies to rule out [Acute GI Infections](Gastroenterology/GI%20Disorders/Acute%20GI%20Infections.md), ileocolonoscopy with biopsy, CT or MRI if can't do endoscopy 
+- Lab studies to rule out [Acute GI Infections](Gastroenterology/GI%20Pathologies/Acute%20GI%20Infections.md), ileocolonoscopy with biopsy, CT or MRI if can't do endoscopy 
 - Inflammatory markers, CRP, ESR
 - Again, fecal calprotectin 
 - Will see a friable mucosa with bleeding on contact with endoscope, and small mucosal ulcerations

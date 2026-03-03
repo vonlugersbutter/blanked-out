@@ -10,7 +10,7 @@ modified: 2026-01-29T14:57:38-05:00
 - Circular folds = permanent ridges of mucosa and submucosa that cause chyme to spiral
 - Intestinal juice (water and mucus) is secreted by intestinal glands (crypts of Lieberkühn)
 	- Paneth cells are specialized epithelial cells located at the base of small intestinal crypts (of Lieberkühn) = essential for innate immunity and tissue homeostasis
-		- Secrete antimicrobial peptides (defensins, lysozyme) to regulate microbiota and support intestinal stem cells by providing necessary niche factors. Dysfunction is linked to inflammatory diseases like [Inflammatory Bowel Disease](Gastroenterology/GI%20Disorders/Inflammatory%20Bowel%20Disease.md), specifically Crohn's 
+		- Secrete antimicrobial peptides (defensins, lysozyme) to regulate microbiota and support intestinal stem cells by providing necessary niche factors. Dysfunction is linked to inflammatory diseases like [Inflammatory Bowel Disease](Gastroenterology/GI%20Pathologies/Inflammatory%20Bowel%20Disease.md), specifically Crohn's 
 - Duodenal (Brunner’s) glands in the duodenum secrete bicarb to neutralize stomach acid
 - Mechanical = Involves segmentations (localized mixing contractions) and migrating motility complexes (MMC) (peristalsis that propels chyme toward the large intestine)
 - Absorption = absorbs about 90% of water and nutrients
@@ -37,7 +37,7 @@ modified: 2026-01-29T14:57:38-05:00
 	- Secretory diarrhea involves excess fluid secreted into the gut (often bacterial toxins, drugs), causing high-volume, watery stool
 	- Osmotic diarrhea happens when poorly absorbed substances (like sugar alcohols, lactase deficiency) draw water into the bowel via osmosis
 ## Malabsorption disorders
-- [Celiac Disease](Gastroenterology/GI%20Disorders/Celiac%20Disease.md)
+- [Celiac Disease](Gastroenterology/GI%20Pathologies/Celiac%20Disease.md)
 - Tropical sprue = malabsorption due to an unknown infectious agent in the tropics
 	- Unlike celiac, it affects the entire small bowel and is treated with antibiotics (tetracycline) and folate
 - Whipple’s disease = a systemic infection with *Tropheryma whipplei*
@@ -48,7 +48,7 @@ modified: 2026-01-29T14:57:38-05:00
 	- Most common in aging (non-persistence) or after mucosal injury
 	- Diagnosis is often via the lactose breath hydrogen test
 - Bacterial overgrowth = occurs when significant bacteria are present in the small intestine, leading to inflammation and malabsorption
-	- Causes include [Diabetes](Endocrinology/Endocrine%20Pathologies/Diabetes/Diabetes.md) or Crohn's disease ([Inflammatory Bowel Disease](Gastroenterology/GI%20Disorders/Inflammatory%20Bowel%20Disease.md))
+	- Causes include [Diabetes](Endocrinology/Endocrine%20Pathologies/Diabetes/Diabetes.md) or Crohn's disease ([Inflammatory Bowel Disease](Gastroenterology/GI%20Pathologies/Inflammatory%20Bowel%20Disease.md))
 ## Diagnostic tests
 - Fecal fat test = measures fat in stool over 1-3 days; >7g/day indicates malabsorption
 - D-xylose test = tests the integrity of the mucosa; d-xylose is a monosaccharide that requires no enzymes; absorption results are abnormal in bacterial overgrowth or Whipple’s disease

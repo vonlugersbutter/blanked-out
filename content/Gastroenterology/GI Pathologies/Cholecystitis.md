@@ -7,7 +7,7 @@ modified: 2026-02-01T19:26:49-05:00
 # Definition
 - Acute inflammation of the gallbladder 
 # Etiology
-- Usually caused by an obstructing [Cholelithiasis](Gastroenterology/GI%20Disorders/Cholelithiasis.md)
+- Usually caused by an obstructing [Cholelithiasis](Gastroenterology/GI%20Pathologies/Cholelithiasis.md)
 - Presence of gallstones → duct obstruction → distension and inflammation
 - Secondary bacterial infection could be present but not necessary, usually *E. coli*, *Klebsiella*, Enterobacter, Enterococcus
 - Could also be an acalculous cholecystitis 
@@ -49,7 +49,7 @@ modified: 2026-02-01T19:26:49-05:00
 - Assess severity by looking at involvement of AKI, any coagulopathies 
 - Rule out related biliary comorbidities like looking at LFTs
 	- Signs of cholestasis aren't usually present
-	- Check lipase and amylase for [Acute Pancreatitis](Gastroenterology/GI%20Disorders/Acute%20Pancreatitis.md)
+	- Check lipase and amylase for [Acute Pancreatitis](Gastroenterology/GI%20Pathologies/Acute%20Pancreatitis.md)
 - RUQ U/S is preferred, could conduct Murphy's sign with the probe 
 - MRI and CT if there are inconclusive findings 
 ## Severity
@@ -74,4 +74,4 @@ modified: 2026-02-01T19:26:49-05:00
 - Gallbladder perforation
 	- Ischemic necrosis followed by break in the wall, same treatment
 - Gasllbladder empyema = pus-filled
-- Chronic cholecystitis = less severe, usually self-limiting, could develop porcelain gallbladder, which is a risk for [Biliary Cancer](Gastroenterology/GI%20Disorders/Biliary%20Cancer.md)
+- Chronic cholecystitis = less severe, usually self-limiting, could develop porcelain gallbladder, which is a risk for [Biliary Cancer](Gastroenterology/GI%20Pathologies/Biliary%20Cancer.md)

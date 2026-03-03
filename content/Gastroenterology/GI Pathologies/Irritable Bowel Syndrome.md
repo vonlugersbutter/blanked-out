@@ -13,7 +13,7 @@ The pathogenesis is multifactorial and involves a complex interplay of the "brai
 - Visceral hypersensitivity = characterized by visceral afferent dysfunction where patients perceive pain at lower volumes of rectal distention this appears selective to visceral innervation, sparing somatic pathways
 - Central neural dysfunction = functional MRI studies demonstrate hyperactivation in the mid-cingulate cortex (attention/response selection) and prefrontal lobe (vigilance network) in response to colonic stimulation
 - Postinfectious IBS (pi-IBS) = approximately 10% of patients develop IBS following infectious enteritis risk factors include the severity/duration of the initial infection and psychological comorbidities
-	- See [Acute GI Infections](Gastroenterology/GI%20Disorders/Acute%20GI%20Infections.md)
+	- See [Acute GI Infections](Gastroenterology/GI%20Pathologies/Acute%20GI%20Infections.md)
 - Immune activation = low-grade mucosal inflammation involving activated lymphocytes and mast cells mast cells in close proximity to enteric nerves correlate with pain severity
 - Microbial dysbiosis = general decrease in fecal microbiome diversity typical shifts include decreased Bifidobacterium and Faecalibacterium and increased Enterobacteriaceae 
 - Serotonin (5-HT) signaling = alterations in enterochromaffin cell serotonin release and downregulated serotonin reuptake transporters (SERT) contribute to motility and sensory disturbances
@@ -31,7 +31,7 @@ The pathogenesis is multifactorial and involves a complex interplay of the "brai
 	- Fever
 	- Steatorrhea
 - Diagnostic workup = for patients with typical symptoms and no alarm features, minimal testing is needed
-	- Routine screens often include CBC, c-reactive protein, and fecal calprotectin (to rule out [Inflammatory Bowel Disease](Gastroenterology/GI%20Disorders/Inflammatory%20Bowel%20Disease.md))
+	- Routine screens often include CBC, c-reactive protein, and fecal calprotectin (to rule out [Inflammatory Bowel Disease](Gastroenterology/GI%20Pathologies/Inflammatory%20Bowel%20Disease.md))
 	- Celiac serology is recommended for IBS-D if regional prevalence is $\geq$ 1%
 # Investigations
 Diagnosis is based on clinical presentation as there are no clear biochemical or structural markers

@@ -23,7 +23,7 @@ modified: 2026-01-29T14:59:04-05:00
 - Major life points will change bacterial diversity
 - Bacterial diversity ↓, intestinal inflammation ↑ as one ages
 - Vaginal delivery allows for more coating in gut flora than C-section 
-- This is the rationale behind doing fecal transplants in things like [Inflammatory Bowel Disease](Gastroenterology/GI%20Disorders/Inflammatory%20Bowel%20Disease.md)
+- This is the rationale behind doing fecal transplants in things like [Inflammatory Bowel Disease](Gastroenterology/GI%20Pathologies/Inflammatory%20Bowel%20Disease.md)
 - This is also the rationale behind probiotics
 	- Probiotics are live beneficial bacteria found in fermented foods or supplements that add to the gut microbiome
 	- Prebiotics are specialized plant fibers that act as food to nourish and fuel these bacteria

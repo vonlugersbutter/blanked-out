@@ -28,6 +28,6 @@ modified: 2026-02-09T18:48:00-05:00
 # Disorders
 - Annular pancreas = a congenital anomaly where the ventral bud fuses around the duodenum, potentially causing bowel obstruction
 - Pancreas divisum = occurs when dorsal and ventral ducts do not fuse, resulting in two separate ducts; it is often asymptomatic but may cause pancreatitis
-- [Acute Pancreatitis](Gastroenterology/GI%20Disorders/Acute%20Pancreatitis.md)
-- [Chronic Pancreatitis](Gastroenterology/GI%20Disorders/Chronic%20Pancreatitis.md)
-- [Pancreatic Cancer](Gastroenterology/GI%20Disorders/Pancreatic%20Cancer.md)
+- [Acute Pancreatitis](Gastroenterology/GI%20Pathologies/Acute%20Pancreatitis.md)
+- [Chronic Pancreatitis](Gastroenterology/GI%20Pathologies/Chronic%20Pancreatitis.md)
+- [Pancreatic Cancer](Gastroenterology/GI%20Pathologies/Pancreatic%20Cancer.md)

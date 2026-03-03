@@ -34,12 +34,12 @@ Autoimmune destruction of small intestinal villi (primarily in the duodenum) tri
 ![400](00%20media/Pasted%20image%2020260130214545.png) 
 - Differentials will include other things that cause malabsorption
 	- Non-celiac gluten sensitivity
-	- [Irritable Bowel Syndrome](Gastroenterology/GI%20Disorders/Irritable%20Bowel%20Syndrome.md) 
-	- [Inflammatory Bowel Disease](Gastroenterology/GI%20Disorders/Inflammatory%20Bowel%20Disease.md)
+	- [Irritable Bowel Syndrome](Gastroenterology/GI%20Pathologies/Irritable%20Bowel%20Syndrome.md) 
+	- [Inflammatory Bowel Disease](Gastroenterology/GI%20Pathologies/Inflammatory%20Bowel%20Disease.md)
 	- Lactose intolerance
 	- SIBO → hydrogen breath test
 	- Other food allergies
-	- [Acute GI Infections](Gastroenterology/GI%20Disorders/Acute%20GI%20Infections.md) 
+	- [Acute GI Infections](Gastroenterology/GI%20Pathologies/Acute%20GI%20Infections.md) 
 # Prognosis
 - Includes a small risk of EATL (T-cell lymphoma) and dermatitis herpetiformis, a herpes-like skin condition that resolves with a gluten-free diet
 	- For the rash, IgA antibodies cross-react with skin antigens and deposit in the papillary dermis, causing neutrophil inflammation + blisters 

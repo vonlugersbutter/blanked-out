@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-02-09T17:39:58-05:00
-modified: 2026-03-01T00:28:32-05:00
+modified: 2026-03-01T12:07:49-05:00
 ---
 # Definition
 
@@ -24,6 +24,7 @@ modified: 2026-03-01T00:28:32-05:00
 - Follicular carcinoma = characterized by the invasion of the fibrous capsule unlike adenomas, it has the potential for hematogenous metastasis
 - Medullary carcinoma = arises from c-cells and produces calcitonin it is associated with amyloid deposits and genetic men syndromes (ret oncogene mutations)
 - Anaplastic carcinoma = a highly malignant, undifferentiated cancer seen in the elderly with a very poor prognosis
+	- Undifferentiated cells lose their ability to produce thyroglobulin → the cells will be negative for this on staining 
 	- Not to be confused with Riedel's which had the rock hard thyroid in a young patient 
 - See [Multiple Endocrine Neoplasias](Endocrinology/Endocrine%20Pathologies/Multiple%20Endocrine%20Neoplasias.md)
 # Epidemiology

@@ -6,7 +6,7 @@ modified: 2026-01-25T23:10:28-05:00
 ---
 # Definition
 - Extrusion of bowel through abdominal wall
-- As opposed to [Omphalocele](Gastroenterology/GI%20Disorders/Omphalocele.md)
+- As opposed to [Omphalocele](Gastroenterology/GI%20Pathologies/Omphalocele.md)
 
 ![400](00%20media/{CDBF0162-5619-4F2E-93F5-A982F97495B4}%201.png)
 # Etiology

@@ -2,7 +2,7 @@
 title:
 description:
 created: 2025-10-06T12:35:38-04:00
-modified: 2025-10-17T12:54:05-04:00
+modified: 2026-03-02T07:47:25-05:00
 ---
 # Definition
 ![](00%20media/{50F899F0-4FF0-45E5-AF27-ACF3A7EF812D}.png)
@@ -15,7 +15,7 @@ Partially occlusive thrombus → closely related symptoms of unstable angina and
 Primary hemostasis, the formation of a platelet plug when subendothelial tissue components get exposed and cause the coagulation cascade to ensure. Then, those same plasma coagulation proteins get activated and form a fibrin clot (that's secondary hemostasis). There are a few mechanisms that are used to prevent too much thrombosis and occlusion, summarized in this diagram in Lilly.
 ![400](00%20media/{AAC2884B-23C8-4DCA-93B7-85842E084DAC}.png)
 
-But of course, things go wrong. Atherosclerosis is supposed to be the driving factor behind all this pathogenesis. Note that the plaque disruption, inappropriate vasoconstriction and loss of normal antithrombotic defenses because the endothelium gets disrupted (can't produce NO and other antithrombotic factors). 
+But of course, things go wrong. [Atherosclerosis](Cardiology/Cardiac%20Pathologies/Ischemic%20Heart%20Diseases/Atherosclerosis.md) is supposed to be the driving factor behind all this pathogenesis. Note that the plaque disruption, inappropriate vasoconstriction and loss of normal antithrombotic defenses because the endothelium gets disrupted (can't produce NO and other antithrombotic factors). 
 ![](00%20media/{DAA2A230-7324-4450-8C38-683B13CE5339}.png)
 
 ## What triggers that coronary thrombosis?
@@ -164,11 +164,11 @@ Discussion of complications.
 	- Elevated serum troponin or CK-MB
 ## Acute treatment of STEMI
 
-| Treatment                                             | Description                                                                                                                                                                                                                                                                                                   |
-| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Coronary artery bypass grafting (CABG)                | Blood vessel grafted from one part of the another.                                                                                                                                                                                                                                                            |
-| Percutaneous transluminal coronary angioplasty (PTCA) | Guide catheter to a coronary artery, angiogram dyes used to locate the plaque, balloon device inflated to make it bigger. Usually, a stent also has to be inserted.<br><br>Reduce thrombotic complications with aspirin, P2Y12 receptor inhibitor, GP IIb/IIIa platelet inhibitor, UFH, bivalirudin           |
-| Stent                                                 | Metallic wire tube used to keep the artery open. Can be drug-coated or drug-eluting.                                                                                                                                                                                                                          |
-| Fibrinolytic therapy                                  | Not used for UA or NSTEMI!!<br><br>Recombinant tissue–type plasminogen activator (alteplase, tPA), reteplase (rPA), and tenecteplase (TNK-tPA)                                                                                                                                                                |
-| Adjunctive therapies                                  | Angiotensin-converting enzyme (ACE) inhibitors limit adverse ventricular remodeling, ↓ the incidence of heart failure, recurrent ischemic events, mortality<br><br>If ACE inhibitors don't work, use angiotensin receptor blockers (ARBs)<br>Statins<br>Aldosterone antagonist → in patients with LV EF <40%  |
+| Treatment                                             | Description                                                                                                                                                                                                                                                                                                  |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Coronary artery bypass grafting (CABG)                | Blood vessel grafted from one part of the another.                                                                                                                                                                                                                                                           |
+| Percutaneous transluminal coronary angioplasty (PTCA) | Guide catheter to a coronary artery, angiogram dyes used to locate the plaque, balloon device inflated to make it bigger. Usually, a stent also has to be inserted.<br><br>Reduce thrombotic complications with aspirin, P2Y12 receptor inhibitor, GP IIb/IIIa platelet inhibitor, UFH, bivalirudin          |
+| Stent                                                 | Metallic wire tube used to keep the artery open. Can be drug-coated or drug-eluting.                                                                                                                                                                                                                         |
+| Fibrinolytic therapy                                  | Not used for UA or NSTEMI!!<br><br>Recombinant tissue–type plasminogen activator (alteplase, tPA), reteplase (rPA), and tenecteplase (TNK-tPA)                                                                                                                                                               |
+| Adjunctive therapies                                  | Angiotensin-converting enzyme (ACE) inhibitors limit adverse ventricular remodeling, ↓ the incidence of heart failure, recurrent ischemic events, mortality<br><br>If ACE inhibitors don't work, use angiotensin receptor blockers (ARBs)<br>Statins<br>Aldosterone antagonist → in patients with LV EF <40% |
 

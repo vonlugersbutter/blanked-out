@@ -41,16 +41,16 @@ modified: 2026-01-29T14:23:14-05:00
 - Tracheoesophageal septum divides diverticulum
 - Matures into separate trachea and esophagus
 	- Abnormal septum development → pathology
-	- [Esophageal Atresia](Gastroenterology/GI%20Disorders/Esophageal%20Atresia.md) (closed esophagus) = occurs when septum deviates posteriorly
+	- [Esophageal Atresia](Gastroenterology/GI%20Pathologies/Esophageal%20Atresia.md) (closed esophagus) = occurs when septum deviates posteriorly
 ## Midgut
 - About 6th week of development, abdomen temporarily becomes too small
 - Intestines “herniate” through umbilical cord → “physiologic herniation”
 - Reduction of hernia occurs by 12th week
-- Persistence of normal herniation causes [Omphalocele](Gastroenterology/GI%20Disorders/Omphalocele.md)
+- Persistence of normal herniation causes [Omphalocele](Gastroenterology/GI%20Pathologies/Omphalocele.md)
 - Midgut rotates around SMA, continues after return to abdomen, results in normal positioning of small bowel, colon
 	- Cecum in right lower quadrant
-- Inappropriate rotation is [Malrotation](Gastroenterology/GI%20Disorders/Malrotation.md)
-- The vitelline duct (omphalomesenteric duct) connects the midgut to the yolk sac and normally disappears by week 9 → pathology is [Meckel's Diverticulum](Gastroenterology/GI%20Disorders/Meckel's%20Diverticulum.md)
+- Inappropriate rotation is [Malrotation](Gastroenterology/GI%20Pathologies/Malrotation.md)
+- The vitelline duct (omphalomesenteric duct) connects the midgut to the yolk sac and normally disappears by week 9 → pathology is [Meckel's Diverticulum](Gastroenterology/GI%20Pathologies/Meckel's%20Diverticulum.md)
 # Spleen
 - The spleen arises from the dorsal mesodermal tissue of the stomach, not from the endoderm
 - Its blood supply is the celiac trunk (via the splenic artery)

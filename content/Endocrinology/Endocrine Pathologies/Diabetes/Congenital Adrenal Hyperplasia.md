@@ -2,13 +2,15 @@
 title:
 description:
 created: 2026-02-09T17:44:16-05:00
-modified: 2026-02-26T22:30:04-05:00
+modified: 2026-03-02T07:32:10-05:00
 ---
 # Definition
 - A group of enzyme deficiency syndromes resulting in low cortisol production, which stimulates ACTH release and leads to adrenal hyperplasia and the overproduction of non-cortisol hormones
 - Primary adrenal insufficiency means inadequate adrenal hormone production due to gland damage, while CAH is a specific genetic, inherited, and most common cause of PAI in children
 # Etiology
 - 21-alpha hydroxylase deficiency = the most common cause (90%) results in low cortisol/aldosterone and high androgens
+	- Most frequent cause is deletions and conversions in the segmentally duplicated RCCX module, which contains the CYP21A2 gene and a pseudogene
+		- This makes it difficult to do simple sequencing methods → https://www.medrxiv.org/content/10.1101/2025.02.07.25321404v1.full talks about this 
 - 11-beta hydroxylase deficiency = similar to 21-alpha deficiency but causes hypertension and hypokalemia due to the buildup of 11-deoxycorticosterone (a weak mineralocorticoid)
 - 17-alpha hydroxylase deficiency = results in low cortisol and androgens, with excess mineralocorticoids leading to hypertension and low potassium females experience primary amenorrhea, and males have ambiguous genitalia
 - 3-beta hydroxysteroid dehydrogenase deficiency = affects all three pathways (mineralocorticoids, glucocorticoids, and androgens)

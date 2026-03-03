@@ -44,6 +44,6 @@ Acute inflammation of the pancreas, characterized by liquefactive necrosis and h
 - [ARDS](Respirology/Respiratory%20Pathologies/ARDS.md) = damage to the capillary endothelium allows fluid to pour into the lungs; it resembles pulmonary edema but with a normal PCWP (pulmonary capillary wedge pressure)
 - Fat necrosis = enzymes release fatty acids that bind calcium, a process called saponification, low calcium is a poor prognostic indicator
 - Multi-organ failure = severe cases may lead to DIC, renal failure, and the need for ICU support
-- Repeated episodes causes [Chronic Pancreatitis](Gastroenterology/GI%20Disorders/Chronic%20Pancreatitis.md)
+- Repeated episodes causes [Chronic Pancreatitis](Gastroenterology/GI%20Pathologies/Chronic%20Pancreatitis.md)
 # Treatment 
 - Focuses on NPO to rest the pancreas, aggressive IV fluids to maintain blood pressure and renal perfusion, and pain control

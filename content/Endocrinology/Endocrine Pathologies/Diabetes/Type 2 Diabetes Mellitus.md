@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-02-05T14:28:18-05:00
-modified: 2026-02-18T18:09:43-05:00
+modified: 2026-03-01T15:41:27-05:00
 ---
 # Definition
 ![](00%20media/{77A3DBEB-4551-4EE0-A6DA-2299C1E8561A}.png)
@@ -16,14 +16,14 @@ The pathogenesis of T2D is a complex interaction between genetic, epigenetic, an
 
 ## Insulin resistance and other mechanisms
 - Insulin resistance = impaired insulin action in peripheral tissues, specifically muscle, fat, and the liver
-	- FFA → activated serine tyrosine kinases → can't be phosphorylated
-	- TNF alpha also activates this, again can't phosphorylate this 
-	- Prevent GLUT4 from going into the membrane through DAG translocation 
-	- Ectopic lipid accumulation = when fat storage capacity in adipose tissue is exceeded, lipids accumulate in the liver and muscle this creates toxic metabolites like diacylglycerols (DAG) and ceramides that disrupt insulin signaling
-	- Inflammation = obesity triggers the infiltration of proinflammatory macrophages (m1 type) into adipose tissue these cells release cytokines like TNF $\alpha$ and IL6, which activate kinases that inhibit the insulin receptor and IRS proteins
-	- Endoplasmic reticulum (ER) stress = overnutrition causes the er to accumulate misfolded proteins, triggering the unfolded protein response (UPR), which further contributes to inflammation and insulin resistance
-	- Mitochondrial dysfunction = a reduction in mitochondrial oxidative capacity and altered enzyme activity (due to acetylation) is often seen in insulin-resistant states
-	- Gut microbiome = alterations in gut bacteria can lead to the release of endotoxins and changes in metabolic products (like short-chain fatty acids), which integrate with host genetics to drive resistance
+- FFA → activated serine tyrosine kinases → can't be phosphorylated
+- TNF alpha also activates this, again can't phosphorylate this 
+- Prevent GLUT4 from going into the membrane through DAG translocation 
+- Ectopic lipid accumulation = when fat storage capacity in adipose tissue is exceeded, lipids accumulate in the liver and muscle this creates toxic metabolites like diacylglycerols (DAG) and ceramides that disrupt insulin signaling
+- Inflammation = obesity triggers the infiltration of proinflammatory macrophages (m1 type) into adipose tissue these cells release cytokines like TNF $\alpha$ and IL6, which activate kinases that inhibit the insulin receptor and IRS proteins
+- Endoplasmic reticulum (ER) stress = overnutrition causes the er to accumulate misfolded proteins, triggering the unfolded protein response, contributes to inflammation and insulin resistance
+- Mitochondrial dysfunction = reduction in mitochondrial oxidative capacity and altered enzyme activity (due to acetylation) is often seen in insulin-resistant states
+- Gut microbiome = alterations in gut bacteria can lead to the release of endotoxins and changes in metabolic products (like SCFAs), which integrate with host genetics to drive resistance
 - Defective insulin secretion = failure of pancreatic $\beta$ -cells to secrete enough insulin, particularly in response to a glucose stimulus
 	- Because of inflammatory markers and apoptosis of the cells 
 - Decreased glucose uptake = reduced ability of muscle and fat to take up glucose, leading to postprandial (after-meal) hyperglycemia
@@ -50,14 +50,11 @@ The pathogenesis of T2D is a complex interaction between genetic, epigenetic, an
 ![](00%20media/{906544C7-AF2E-40AC-9C6B-ECEA3DDCF41A}.png)
 # Epidemiology
 - Predominance = T2D is the most common form of diabetes globally, accounting for 90% to 95% of all cases
-- Global burden = in 2021, an estimated 537 million adults had diabetes; this is projected to rise to 738 million by 2045
 - Growth trends = while currently most prevalent in high-income countries, the fastest growth in new cases is expected in low- to middle-income countries
-- Costs = global diabetes-related health expenditures reached $966 billion USD in 2021 in the us, individuals with diabetes have average health expenditures 23-fold higher than those without the disease
 - Prediabetes = in the US, approximately 38% of adults (96 million people) have prediabetes, placing them at high risk for progression to T2D
-- Global prevalence = type 2 diabetes (T2D) is a massive public health challenge, with the international diabetes federation (IDF) estimating 5356 million cases globally in 2021
 - Dominance of T2D = t2d accounts for approximately 90% of all diabetes cases worldwide
 - Morbidity and mortality = t2d is a leading cause of blindness and accounts for at least 40% of end-stage renal disease (ESRD) in the us
-- Life expectancy = having diabetes reduces life expectancy by approximately 10 years, with a significantly higher hazard ratio for death in those diagnosed before age 55
+- Having diabetes reduces life expectancy by approximately 10 years, with a significantly higher hazard ratio for death in those diagnosed before age 55
 # Clinical features
 - Polydipsia
 - Polyuria
@@ -80,11 +77,7 @@ The pathogenesis of T2D is a complex interaction between genetic, epigenetic, an
 # Prognosis
 - Hyperkalemia here is not good → indicates that the potassium is not being filtered out 
 ## Acute complications
-- Hypoglycemia = symptoms include tachycardia, sweating, and tremors (at ~54 mg/dl), progressing to confusion and headache (~50 mg/dl) and eventually seizures or coma
-- Diabetic ketoacidosis (DKA) = driven by low insulin and high glucagon, catecholamines, and cortisol this leads to high levels of ketone bodies (3- $\beta$ -hydroxybutyrate, acetoacetate, and acetone)
-	- More common in [Type 1 Diabetes Mellitus](Endocrinology/Endocrine%20Pathologies/Diabetes/Type%201%20Diabetes%20Mellitus.md)
-	- Treatment involves IV fluids, insulin, monitor potassium levels 
-	- Cerebral edema → too much fluid going into the cells, because of excessive fluid correction 
+- [Hypoglycemia](Endocrinology/Endocrine%20Pathologies/Hypoglycemia.md) = symptoms include tachycardia, sweating, and tremors (at ~54 mg/dl), progressing to confusion and headache (~50 mg/dl) and eventually seizures or coma
 - Hyperglycemic-hyperosmolar nonketotic coma = occurs if osmolarity exceeds 330 mOsm/l due to extreme hyperglycemia
 	- More common in Type 2
 	- Extreme hyperglycemia ($> 1000\text{ mg/dl}$), severe dehydration
@@ -120,10 +113,9 @@ The pathogenesis of T2D is a complex interaction between genetic, epigenetic, an
 	- Mechanism = they inhibit sglt2 in the proximal tubule, causing glucose loss in urine and mild osmotic diuresis
 	- Benefits = mild weight loss and may improve heart failure outcomes
 	- Adverse effects = UTIs and vulvovaginal candidiasis
-- GLP-1 receptor agonists = improve satiety and weight loss; several have demonstrated cardiovascular protection in high-risk populations
 - Sulfonylureas = effectively lower glucose but carry a higher risk of hypoglycemia and modest weight gain
 	- Include 1st generation (tolbutamide, chlorpropamide, tolazamide), 2nd generation (glyburide, glipizide), and 3rd generation (glimepiride)
-	- "Insulin secretagogues" that close ATP-dependent K+ channels in pancreatic beta cells, causing depolarization and increased insulin release
+	- "Insulin secretagogues" that close ATP-dependent K+ channels in pancreatic beta cells (SUR1 channels), causing depolarization and increased insulin release
 	- [Hypoglycemia](Endocrinology/Endocrine%20Pathologies/Hypoglycemia.md) = most common side effect they also cause weight gain chlorpropamide specifically can cause flushing with alcohol (disulfiram-like reaction) and hyponatremia due to increased ADH activity
 - Meglitinides (repaglinide, nateglinide) = similar mechanism to sulfonylureas (closing k+ channels) but short-acting and given before meals they contain no sulfur and can be used in patients with sulfa allergies
 - Insulin = essential when other agents fail; basal insulin is typically initiated first, titrated based on fasting glucose levels → see [Type 1 Diabetes Mellitus](Endocrinology/Endocrine%20Pathologies/Diabetes/Type%201%20Diabetes%20Mellitus.md) for more information about details 

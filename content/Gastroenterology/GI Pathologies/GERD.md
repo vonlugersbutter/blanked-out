@@ -15,7 +15,7 @@ Gastro-esophageal reflux disease.
 - Ingestion of lye = accidental ingestion of alkali substances (sodium/potassium hydroxide) by children causes liquefactive necrosis, which rapidly injures the esophageal wall and can result in strictures
 # Epidemiology
 # Prognosis
-- Barrett's esophagus is a serious condition where the tissue lining the lower esophagus changes due to long-term acid reflux (GERD), becoming similar to intestinal lining, a process called metaplasia, which slightly increases the risk for [Esophageal Cancer](Gastroenterology/GI%20Disorders/Esophageal%20Cancer.md)
+- Barrett's esophagus is a serious condition where the tissue lining the lower esophagus changes due to long-term acid reflux (GERD), becoming similar to intestinal lining, a process called metaplasia, which slightly increases the risk for [Esophageal Cancer](Gastroenterology/GI%20Pathologies/Esophageal%20Cancer.md)
 	- Endoscopically, Barrett's appears pink/red compared to the normal white squamous mucosa patients require regular surveillance endoscopy with biopsies to screen for carcinoma
 - Ulcers, fibrosis, and strictures = acid can destroy the mucosa, which is then replaced by fibrous tissue, leading to strictures and dysphagia
 

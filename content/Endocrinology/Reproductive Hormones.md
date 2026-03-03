@@ -39,7 +39,7 @@ modified: 2026-02-28T19:12:15-05:00
 	- Secrete inhibin b (to inhibit FSH), androgen-binding protein (ABP) (to maintain high local testosterone), and anti-Mullerian hormone (aka Mullerian-inhibiting hormone or MIH)
 - Androgen metabolism = testosterone is converted to the more potent dihydrotestosterone (DHT) by 5-$\alpha$ reductase
 	- It can also be converted to estradiol by aromatase in adipose tissue and Leydig cells
-- Finasteride = 5-$\alpha$ reductase inhibitor, for hair loss and [Benign Prostatic Hyperplasia](Reproduction/Benign%20Prostatic%20Hyperplasia.md)
+- Finasteride = 5-$\alpha$ reductase inhibitor, for hair loss and [Benign Prostatic Hyperplasia](Reproduction/Reproductive%20Pathologies/Benign%20Prostatic%20Hyperplasia.md)
 - Testosterone therapy and anabolic steroids = used for hypogonadism, resulting in increased muscle mass and bone density
 	- Adverse effects include increased hematocrit, acne, ↑ HDL/↓ LDL, ↓ sperm, gynecomastia (due to estrogen conversion and estrogen effects from SHBG) 
 	- Exogenous testosterone suppresses spermatogenesis by inhibiting LH secretion, which lowers intratesticular testosterone levels

@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-01-29T12:52:34-05:00
-modified: 2026-01-29T12:55:28-05:00
+modified: 2026-03-01T05:00:13-05:00
 ---
 # Definition
 - Carcinoid tumors are neuroendocrine tumors found in various organs, most commonly the small intestine they are named for their slow growth
@@ -18,7 +18,7 @@ modified: 2026-01-29T12:55:28-05:00
 - Metabolic effects = carcinoid tumors consume up to 70% of the body's tryptophan (normal is ~1%) to produce serotonin
 	- Can lead to a tryptophan deficiency, causing niacin (b3) deficiency and symptoms of pellagra
 # Investigations
-- Serotonin is metabolized into 5-hiaa, which is measured in a 24-hour urine sample
+- Serotonin is metabolized into 5-HIAA, which is measured in a 24-hour urine sample
 # Prognosis
 
 # Treatment 

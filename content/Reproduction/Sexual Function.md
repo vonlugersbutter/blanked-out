@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-02-19T11:14:01-05:00
-modified: 2026-02-19T11:22:49-05:00
+modified: 2026-03-11T22:24:05-04:00
 ---
 - WHO defines sexual health as a "state of physical, emotional, mental and social well-being related to sexuality"
 # Sexual response cycle
@@ -54,7 +54,7 @@ modified: 2026-02-19T11:22:49-05:00
 - Third-line = penile prosthesis surgery for patients unresponsive to medical therapies
 - Testosterone therapy = indicated for men with hypogonadism
 # Endocrine conditions and sexual health
-- [Diabetes](Endocrinology/Endocrine%20Pathologies/Diabetes/Diabetes.md) = increases risk for ed and low testosterone in men in women, it is associated with FSD due to neuropathy and vascular insufficiency
+- [Diabetes](Endocrinology/Endocrine%20Pathologies/Diabetes/Diabetes.md) = increases risk for ED and low testosterone in men in women, it is associated with FSD due to neuropathy and vascular insufficiency
 - Hyperprolactinemia = suppresses GnRH, leading to low testosterone/estrogen and reduced desire in both sexes
 - Thyroid disease = hypothyroidism is linked to delayed ejaculation (men) and low desire
 	- Hyperthyroidism is strongly associated with premature ejaculation

@@ -2,7 +2,7 @@
 title:
 description:
 created: 2026-01-29T00:22:45-05:00
-modified: 2026-02-02T07:03:55-05:00
+modified: 2026-03-11T18:29:12-04:00
 ---
 # Gallbladder
 - Sac that stores and concentrates bile produced by the liver until needed in the duodenum
@@ -36,7 +36,7 @@ modified: 2026-02-02T07:03:55-05:00
 ![](00%20media/{174E0AB3-863B-4534-A388-D646AC8DEC54}.png)
 ## Special syndromes
 - Gilbert’s syndrome = a mild decrease in UGT enzyme levels leading to mild unconjugated hyperbilirubinemia, often triggered by fasting, stress, or illness
-- Crigler-Najjar syndrome = severely reduced or absent UGT enzyme type i is often fatal in infancy due to kernicterus (bilirubin acting as a neurotoxin in the brain) type ii is less severe and may be treated with phenobarbital
+- Crigler-Najjar syndrome = severely reduced or absent UGT enzyme; type I is often fatal in infancy due to kernicterus (bilirubin acting as a neurotoxin in the brain), type ii is less severe and may be treated with phenobarbital
 - Dubin-Johnson syndrome = a defect in excreted conjugated bilirubin, classically resulting in a black liver
 	- Impaired biliary excretion of bilirubin glucuronides is due to a mutation in the canalicular MRP2
 	- Black liver happens due to polymerized epinephrine metabolites

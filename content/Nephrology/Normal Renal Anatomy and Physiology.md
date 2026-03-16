@@ -2,7 +2,7 @@
 title:
 description:
 created: 2025-10-17T21:42:45-04:00
-modified: 2026-03-02T09:00:17-05:00
+modified: 2026-03-11T18:04:42-04:00
 ---
 # Gross anatomy
 Oh, Tortora, where would we be without you? Well, we'd still be here, just with diagrams that aren't as pretty. 

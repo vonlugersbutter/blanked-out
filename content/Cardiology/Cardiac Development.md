@@ -2,8 +2,10 @@
 title:
 description:
 created: 2025-10-07T17:24:05-04:00
-modified: 2025-10-20T14:39:06-04:00
+modified: 2026-03-16T14:14:47-04:00
 ---
+Cardiovascular Development = The straight cardiac tube forms by the 23rd day Between weeks 4 and 7, the heart undergoes extensive growth to become a partially septated four-chambered heart with primitive valves
+
 We start with Tortora. 
 ![](00%20media/{DD06D510-24CA-4C03-8AD7-9D02F774145E}.png)
 Forms from cardiogenic area in the mesoderm. Two cell clusters called angioblastic cords, which then turn into cardiogenic cords, then endocardial tubes. These then fuse at the midline, forming a single tube at day 22. 

@@ -14,7 +14,7 @@ modified: 2026-03-02T07:34:09-05:00
 	- SRD5A2 (Steroid 5-alpha reductase 2) = gene that encodes a key microsomal enzyme primarily responsible for converting testosterone into the more potent androgen dihydrotestosterone (DHT) in prostate and other tissue
 	- So normal testosterone, but no DHT → at puberty, the high levels of testosterone are able to directly act on the androgen receptors 
 	- Type 1 isoenzyme (SRD5A1 expressed in the liver and skin increases its activity at puberty
-	- Recall back to [Fetal Endocrinology](Endocrinology/Fetal%20Endocrinology.md) → external male genitalia and prostate require DHT
+	- Recall back to [Endocrine Development](Endocrinology/Endocrine%20Development.md) → external male genitalia and prostate require DHT
 - Female external genitalia at birth
 - Possibly pseudovaginal perineoscrotal hypospadias (PPSH): a symptom constellation of hypospadias, a micropenis that resembles a clitoris, and an incompletely closed urogenital opening that resembles a vagina
 - Sertoli cells functioned correctly, producing AMH to regress the Müllerian ducts (hence, no uterus or fallopian tubes)

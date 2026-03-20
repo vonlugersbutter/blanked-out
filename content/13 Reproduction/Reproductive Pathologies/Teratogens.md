@@ -1,0 +1,232 @@
+---
+title:
+description:
+created: 2026-03-11T18:15:10-04:00
+modified: 2026-03-19T15:36:48-04:00
+---
+- Substances that cause abnormal fetal development
+- Common effects:
+	- Fetal loss 
+	- Growth restriction
+	- Birth defects
+	- Impaired neurologic function
+- Many mechanisms:
+	- Cell death/apoptosis
+	- Disrupted metabolism
+	- Disrupted cell growth/proliferation
+- Hadegen = An agent that interferes with the normal maturation and function of an organ
+- Trophogen = An agent that alters growth
+- Fetotoxin = Substances (including hadegens and trophogens) that typically affect development during the fetal period or postnatally
+
+- Shephard's guidelines are used to establish teratogenicity → characterization of abnormality, placental transfer, consistency (higher than 30 relative risk), biological plausibility
+- First two weeks (preimplantation)
+	- “All or none” period
+	- Spontaneous abortion or no effect
+- Weeks 2-8 (embryonic)
+	- Organogenesis
+	- Structural defects
+- After week 8 (fetal)
+	- Decreased growth
+	- Central nervous system dysfunction
+	- Usually no birth defects
+# Potential teratogens
+## Drugs
+- FDA labels drugs during pregnancy in categories
+- Category A: no risk to fetus in human studies
+- Category B: no risk to fetus in other studies
+- Category C: risk cannot be ruled out
+- Category D: positive evidence of risk
+- Category X: contraindicated in pregnancy
+	- Drugs known to be teratogenic in animals and humans
+	- Risks clearly outweigh benefits
+- ACE Inhibitors and ARBs → pregnancy class D
+	- 1st trimester: numerous congenital malformations
+	- 2nd/3rd trimester: oligohydramnios
+		- Decreased fetal kidney function
+		- Can lead to [Potter's Syndrome](15%20Multisystem%20Disorders/Potter's%20Syndrome.md)
+		- Pulmonary hypoplasia, limb/skeletal deformities
+- Seizure drugs
+	- Valproic acid (↑↑ neural tube defects)
+	- Phenytoin → fetal hydantoin syndrome → growth deficiency, abnormal facial features and microcephaly
+	- Phenobarbital
+	- Carbamazepine
+	- Many anti-seizure drugs associated with ↓ folic acid → neural tube defects
+	- High dose folic acid supplementation
+- Chemotherapy
+	- Rarely women develop malignancy while pregnant
+		- Hodgkin lymphoma
+	- Ideally chemotherapy deferred
+	- Fetal malformations 15% with therapy in 1st trimester
+	- Highest risk: alkylating agents and antimetabolites → spontaneous abortion, missing digits
+- Isotretinoin = derivative of vitamin A, used to treat acne, pregnancy class X
+	- Spontaneous abortions (~20%)
+	- “Embryopathy”: 20-30% of live births
+		- Abnormal facial features (low ears, wide-spaced eyes)
+		- Congenital heart disease
+		- Hydrocephalus
+	- Birth control mandatory
+- Vitamin A Excess = teratogenic in first trimester, spontaneous abortions, microcephaly, cardiac anomalies, occurs at doses several times RDA
+- Methotrexate = inhibits folate metabolism, used as anti-inflammatory
+	- Pregnancy class X, used to induce abortion in ectopic pregnancy
+	- May cause neural tube defects
+	- Aminopterin/methotrexate embryopathy
+- Warfarin → pregnancy class D
+	- Fetal hemorrhage, spontaneous abortion
+	- Optic atrophy (vision loss)
+	- Warfarin embryopathy
+		- Bone and cartilage abnormalities
+		- Stippled epiphyses: small, round densities on X-ray
+		- Nasal and limb hypoplasia
+- Methimazole = treatment for [Hyperthyroidism](14%20Endocrinology/Endocrine%20Pathologies/Hyperthyroidism.md) → pregnancy class D
+	- May cause fetal and neonatal [Hypothyroidism](14%20Endocrinology/Endocrine%20Pathologies/Hypothyroidism.md)
+	- Aplasia cutis: absence of epidermis on scalp
+		- Solitary defect on scalp ~70% of cases
+		- Missing patch skin/hair
+	- Propylthiouracil (PTU) used in 1st trimester
+- Lithium = used in psychiatric disorders → pregnancy class D
+	- Teratogenic effects primarily involve heart
+	- Ebstein’s anomaly most common → tricuspid valve is displaced downward
+-  Antibiotics
+	- Aminoglycosides = reports of permanent deafness in fetus
+	- Tetracycline = accumulate in fetal teeth and long bones, may permanently discolor fetal teeth
+	- Fluoroquinolones = fetal cartilage damage
+	- Trimethoprim = may disrupt folate metabolism in fetus → neural tube defects
+	- Sulfonamides = displace bilirubin from albumin, can cause kernicterus, see [09 Gallbladder, Bile, Bilirubin](10%20Gastroenterology/GI%20A&P/09%20Gallbladder,%20Bile,%20Bilirubin.md)
+- Thalidomide → pregnancy class X
+	- Rarely used for treatment of multiple myeloma, used in 1950s as sedative in pregnancy
+	- Limb deformities, all in the 1950s 
+		- Amelia: absence of limb
+		- Micromelia: short limbs
+		- Phocomelia: abnormal limb
+- Diethylstilbestrol = nonsteroidal estrogen, used to prevent miscarriage, premature birth
+	- Slightly increased risk of breast cancer for mothers
+	- Female babies: reproductive tract abnormalities
+	- Hypoplastic uterus
+	- Cervical hypoplasia
+	- Vaginal adenosis
+		- Metaplasia of cervical or endometrial epithelium in vagina
+		- Persistent Müllerian tissue after birth
+	- Vaginal clear cell adenocarcinoma 
+	- High rate of [Infertility](13%20Reproduction/Reproductive%20Pathologies/Infertility.md)
+- NSAIDs = Use after 20 weeks can cause oligohydramnios and neonatal kidney problems; late-pregnancy use can cause premature constriction of the fetal ductus arteriosus 
+- If you put a woman on LMWH → need to take it off before giving an epidural 
+
+## Substances of abuse
+### Alcohol
+- Neurotoxin
+	- Multiple mechanisms: Cell death, failure of cell migration
+- May cause fetal alcohol syndrome (FAS)
+	- Characteristic facial features = smooth philtrum, short palpebral fissures, thin vermillion border
+	- Congenital heart defects = [Tetralogy of Fallot](08%20Cardiology/Cardiac%20Pathologies/Congenital%20Diseases/Tetralogy%20of%20Fallot.md), other defects
+	- Skeletal anomalies = below average height and weight, limb defects, small baby
+	- Intellectual disability = structural defects, microcephaly, abnormal reflexes
+- First trimester = facial abnormalities, brain abnormalities, cardiac
+- Third trimester = mostly affects size of baby, brain growth
+- Intellectual impairment may occur without facial or brain anomalies
+### Smoking
+- Two toxins: Nicotine and carbon monoxide
+- Impaired oxygen delivery to the fetus
+	- Nicotine-induced vasoconstriction → ↓ placental blood flow
+	- CO competes with O2 → ↓ oxyhemoglobin
+- IUGR/Low birthweight = 20% cases associated with smoking
+- Placental anomalies
+	- Abruption
+	- Previa
+	- Premature rupture of membranes
+- Preterm labor
+- Well-documented association with SIDS
+- Marijuana = Crosses the placenta and may affect brain development; however, data are often confounded by concomitant tobacco use
+### Cocaine
+- Vasoconstriction
+- IUGR/low birthweight
+- Placental abruption, preterm birth, miscarriage
+## Radiation
+- X-rays
+	- No evidence of harm at small doses
+	- Threshold for harm not definitively determined
+	- Higher dosages 8-15 weeks may cause intellectual disability, microcephaly, growth restriction
+	- Lead shielding used to protect fetus
+## Chemicals
+- Mercury
+	- Methylmercury found in fish/seafood
+	- Not removed by cooking
+	- Highest levels: swordfish, shark, tilefish, Mackerel King
+	- Fetal brain highly sensitive to mercury
+		- Mother not usually affected
+	- Delayed milestones
+	- Rarely blindness, deafness, or cerebral palsy
+- Lead = Associated with growth impairment and neurodevelopmental delays; no level is considered safe
+- Herbal Products = Often unregulated; use is generally discouraged due to a lack of safety data → some herbs, like black cohosh, can cause uterine contractions
+## Maternal illness
+### [Diabetes](14%20Endocrinology/Endocrine%20Pathologies/Diabetes/Diabetes.md)
+- Multiple effects on fetus:
+	- Increased growth
+	- Blood sugar alterations
+	- Congenital heart disease
+	- CNS disorders
+- Macrosomia (large baby)
+	- Baby born large for gestational age
+	- Weight >90th percentile is common
+	- Babies often >9lbs at birth
+- Can lead to birth injury
+	- Shoulder dystocia (shoulders cannot pass through birth canal)
+- Neonatal [Hypoglycemia](14%20Endocrinology/Endocrine%20Pathologies/Hypoglycemia.md) = baby makes excess insulin (“hyperinsulinemic state”)
+	- Blood glucose levels below 40 mg/dL
+	- Transient: usually the first 24 hours of life
+	- Close glucose monitoring after delivery is essential
+- Congenital heart defects: 3-9% of babies
+	- Transposition of the great arteries (TGA) → most important
+	- Ventricular septal defects (VSDs)
+	- Truncus arteriosus
+	- Tricuspid atresia
+	- Patent ductus arteriosus (PDA)
+- Caudal Regression Syndrome = sacral agenesis, classically associated with maternal diabetes, usually children of insulin-dependent mothers
+	- Incomplete development of sacrum
+	- May include sirenomelia = “Mermaid syndrome”
+	- Fusion of legs
+	- Often includes a neural tube defect
+### Phenylketonuria (PKU)
+- Occurs in women with PKU who consume phenylalanine
+- High levels of phenylalanine acts as a teratogen
+- Serum phenylalanine monitored in pregnancy
+- Dietary restriction of phenylalanine essential
+- IUGR, microcephaly, intellectual disability, congenital heart defects
+	- Coarctation of the aorta
+	- Hypoplastic left heart syndrome
+## Infectious agents (TORCH)
+- Toxoplasmosis, Other (syphilis and hep B), Rubella, CMV, Herpes
+- More recently, pathogens like HIV, Zika virus, parvovirus B19, and varicella virus have also been included in this grouping
+### Etiology
+- The causative organisms for these infections include Toxoplasma gondii, Treponema pallidum (syphilis), Rubella virus, Cytomegalovirus, and HSV types 1 and 2
+- Pathogens are transmitted through several routes
+	- Prenatal (Transplacental) = T gondii, Rubella, and CMV
+	- Perinatal (Vertical) = Transmission can occur during delivery through contact with infected blood or vaginal secretions, which is common for HSV and syphilis
+	- Postnatal = Infections can also be transmitted via breast milk (eg, CMV and HIV) or other maternal exposures
+- Maternal risk factors = lapsed immunizations, sexually transmitted infections, and exposure to animals (specifically cats for toxoplasmosis) or undercooked meats
+### Clinical features
+- Skin Manifestations = Rashes that may be maculopapular, purpuric, or petechial (often described as a "blueberry muffin rash")
+- Neurological Issues = Microcephaly and intracranial calcifications
+- Sensory Impairment = Chorioretinitis, cataracts, and sensorineural hearing loss (the number one cause of such loss in children)
+- Organ Involvement = Hepatosplenomegaly, jaundice, and cardiac anomalies
+- Toxoplasmosis = Characterized by intrauterine growth restriction, intraparenchymal calcifications, and chorioretinitis
+- Congenital Rubella Syndrome = Associated with cataracts, congenital heart disease (like patent ductus arteriosus), and hearing loss
+- Cytomegalovirus (CMV) = The most common congenital infection, often presenting with paraventricular calcifications and thrombocytopenia
+- Herpes Simplex Virus (HSV) = Usually presents perinatally (10–21 days after birth) in three forms = Skin-eye-mucous membranes (SEM), Central Nervous System (CNS) disease, or disseminated disease
+- Syphilis = Early signs include "sniffles" (nasal discharge), skin lesions on palms and soles, and bone inflammation (periostitis) Late findings include Hutchinson teeth and a saddle nose
+### Investigations
+- IgG testing is ordered, but not usually definitive, need pathogen-specific teting
+- Toxoplasmosis = Requires a combination of IgA, IgG, and IgM testing, often through a reference laboratory using the Dye test or ELISA
+- Rubella = Diagnosis involves viral cultures from the nasopharynx or assessing IgM in the newborn
+- CMV = Confirmed by isolating the virus from urine (most common), blood, or CSF within the first month of life using PCR or viral culture
+- HSV = Requires a comprehensive sepsis evaluation, including lumbar puncture and swabs from the mouth, nasopharynx, and any skin vesicles for PCR and culture
+- Syphilis = Involves comparing the infant's RPR titer to the mother's, alongside CBC, CSF examination, and long-bone X-rays
+### Treatment
+- Toxoplasmosis = Managed with spiramycin (to prevent fetal infection) or a combination of pyrimethamine, sulfadiazine, and folinic acid for active fetal infection
+- HSV = Requires aggressive high-dose intravenous acyclovir followed by long-term oral suppressive therapy for six months to improve neurological outcomes
+- CMV = Symptomatic infants are treated with ganciclovir or valganciclovir for six months, primarily to preserve hearing
+- Syphilis = Must be treated immediately with penicillin G
+- HIV = Preventative treatment for the infant includes zidovudine for 4 to 6 weeks, and breastfeeding is discouraged
+- Rubella = No specific treatment exists once the syndrome has developed; management focuses on addressing clinical stigmata like heart defects or cataracts
+### Prevention
+- Maternal immunization for rubella and varicella, safe sex, hygiene
+- Avoid cleaning cat litter boxes, ensure meat is cooked thoroughly → toxoplasmosis
